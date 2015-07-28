@@ -3,8 +3,11 @@ Scraper for airbornescience.nasa.gov.
 
 ## Installation
 
-`virtualenv env`
-`pip install beautifulsoup4`
+```bash
+virtualenv env
+source env/bin/activate
+pip install lxml requests beautifulsoup4
+```
 
 ## Examples
 
