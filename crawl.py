@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import os, sys, re, json, requests
+import os, sys, re, json, requests, argparse
 from bs4 import BeautifulSoup
 
 
@@ -185,15 +185,15 @@ def parse_row_data(tr):
     return info
 
 
-def crawl_all():
+def crawl_all(output_dir):
     """Crawl the Airborne Science website for instruments."""
 
     # get total instruments
     page_size, total = get_paging_info()
 
     # loop over pages
-    json_dir = "instruments"
-    if not os.path.isdir(json_dir): os.makedirs(json_dir, 0755)
+    instr_dir = os.path.join(output_dir, "instruments")
+    if not os.path.isdir(instr_dir): os.makedirs(instr_dir, 0755)
     for page in range(total/page_size+1):
         r = requests.get("%s/instrument/all" % BASE_URL, params={'page': page})
         r.raise_for_status()
@@ -203,10 +203,14 @@ def crawl_all():
         for tr in tbody.find_all('tr'):
             info = parse_row_data(tr)
             data.append(info)
-            info_file = os.path.join("instruments", "%s.json" % os.path.basename(info['href']).replace(' ', '-'))
+            info_file = os.path.join(instr_dir, "%s.json" % os.path.basename(info['href']).replace(' ', '-'))
             with open(info_file, 'w') as f:
                 json.dump(info, f, indent=2, sort_keys=True)
 
 
 if __name__ == "__main__":
-    crawl_all()
+    desc = "Crawl and dump airborne instruments, platforms and related metadata."
+    parser = argparse.ArgumentParser(description=desc)
+    parser.add_argument('output_dir', help="output directory")
+    args = parser.parse_args()
+    crawl_all(args.output_dir)

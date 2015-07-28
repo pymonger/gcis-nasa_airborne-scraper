@@ -6,13 +6,19 @@ Scraper for airbornescience.nasa.gov.
 ```bash
 virtualenv env
 source env/bin/activate
-pip install lxml requests beautifulsoup4
+pip install lxml requests[security] beautifulsoup4
 ```
 
 ## Examples
 
-#### Scrape and dump info to JSON
+#### Usage
 
 ```bash
-./crawl.py
+./crawl.py -h
+```
+
+#### Scrape and dump info to JSON documents in "output" directory
+
+```bash
+./crawl.py output
 ```
