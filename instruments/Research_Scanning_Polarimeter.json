@@ -1,0 +1,43 @@
+{
+  "acronym": "RSP", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }, 
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": "NASA GISS 2880 Broadway New York , NY 10025 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Brian_Cairns", 
+    "name": "Brian Cairns", 
+    "organization": "NASA Goddard Institute for Space Studies", 
+    "phone": "tel:tel:+1-212-678-5625", 
+    "role": "PI", 
+    "website": "http://data.giss.nasa.gov/pub/rsp/"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Research_Scanning_Polarimeter", 
+  "instrument": [
+    "Spectrometer"
+  ], 
+  "measurements": [
+    "Imagery"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/RSP_SEAC4RS.jpg?itok=c3TEVDKM", 
+  "summary": "In order to demonstrate the capabilities of polarimetry an instrument that can make either ground-based, or aircraft measurements, the Research Scanning Polarimeter (RSP) has been developed by SpecTIR Corporation. This instrument has similar functional capabilities to the proposed EOSP satellite instrument. The picture above shows the assembled RSP instrument with its liquid nitrogen dewar on the left side and scanner assembly on the right. Currently data acquisition is performed on a laptop, which is shown here and gives an indication of the size of the instrument. The scientific requirements for the polarimetric measurements are satisfied by the RSP through its high measurement accuracy, the wide range of viewing angles measured and by sampling of the spectrum of reflected solar radiation over most of the radiatively significant range. The RSP instrument uses a polarization compensated scan mirror assembly to scan the fields of view of six boresighted, refractive telescopes through \u00b160\u00b0 from the normal with respect to the instrument baseplate. The refractive telescopes are paired, with each pair making measurements in three spectral bands. One telescope in each pair makes simultaneous measurements of the linear polarization components of the intensity in orthogonal planes at 0\u00b0 and 90\u00b0 to the meridional plane of the instrument, while the other telescope simultaneously measures equivalent intensities in orthogonal planes at 45\u00b0 and 135\u00b0. This approach ensures that the polarization signal is not contaminated by uncorrelated spatial or temporal scene intensity variations during the course of the polarization measurements, which could create false polarization. These measurements in each instantaneous field of view in a scan provide the simultaneous determination of the intensity, and the degree and azimuth of linear polarization in all nine spectral bands.", 
+  "title": "Research Scanning Polarimeter"
+}

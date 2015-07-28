@@ -1,0 +1,36 @@
+{
+  "acronym": "mini-DOAS", 
+  "aircraft": [
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Jochen_Peter_Stutz", 
+    "name": "Jochen Peter Stutz", 
+    "organization": "University of California, Los Angeles", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Mini-DOAS", 
+  "instrument": [
+    "Spectrometer"
+  ], 
+  "measurements": [
+    "BrO", 
+    "NO2", 
+    "O4"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/IMG_0851.jpg?itok=TcHKxXB9", 
+  "summary": "mini-DOAS uses the Differential Optical Absorption Spectroscopy (DOAS) technique to identify and quantify trace gases using their narrow band absorptions.This instrument studies:1) the transport of short-lived halogenated species and their decay products to the stratosphere and the subsequent influence to the photochemistry and budget of Bromine (BrO) in the TTL. 2) the potential impact of halogen oxides to directly destroy UT/LS ozone.", 
+  "title": "mini-DOAS"
+}

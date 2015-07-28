@@ -1,0 +1,33 @@
+{
+  "acronym": "3V-CPI", 
+  "aircraft": [
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Jorgen_Jensen", 
+    "name": "Jorgen Jensen", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/3VCPI.jpg?itok=aCUYQAI2", 
+  "href": "http://airbornescience.nasa.gov/instrument/3V-CPI", 
+  "instrument": [
+    "Particle imager", 
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "Imagery"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/3VCPI%20instrument.jpg?itok=Xfy2CCKC", 
+  "summary": "The Three-View Cloud Particle Imager (3V-CPI) measures the size, shape and concentration of water drops and ice particles in clouds. The probe is a combination of three imaging instruments. Two of them comprise a 2D-S (Two- Dimensional Stereo hydrometeor spectrometer), in which two high-resolution (about 9 mm resolution) 2D probes image particles as they pass through laser beams that are orthogonal to each other. If particles also lie in the intersection of the sensitive areas of the two beams, they are seen by both 2D probes. In that case, the third instrument, a Cloud Particle Imager (CPI), is triggered to take a high-resolution picture, via a briefly illuminated high-resolution imaging array. This image has a pixel size of about 2.3 \u00b5m and so provides very high resolution for determining shapes and habits of ice crystals. The probe is particularly suited to imaging such crystals, but also provides good detection of other hydrometeors including large cloud droplets, drizzle and small rain drops, and other precipitation particles.", 
+  "title": "Three-View Cloud Particle Imager"
+}

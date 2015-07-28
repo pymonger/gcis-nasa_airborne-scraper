@@ -1,0 +1,30 @@
+{
+  "acronym": "VCSEL", 
+  "aircraft": [
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": "Department of Civil and Environmental Engineering Princeton , NJ 08544 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Mark_A_Zondlo", 
+    "name": "Mark A. Zondlo", 
+    "organization": "Princeton University", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/VCSEL", 
+  "instrument": [], 
+  "measurements": [
+    "H2O"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/vcsel.jpg?itok=zhgqnlkV", 
+  "summary": "The VCSEL hygrometer is an open-path, laser-based hygrometer that measures absolute concentration of water vapor (molecules per cm-3) at a rate of 25 Hz. The instrument is designed for operation throughout the troposphere and lower stratosphere. Two water vapor absorption lines are used: a \u201cweak\u201d line at 1853.37 nm for lower tropospheric mixing ratios and a \u201cstrong\u201d line at 1854.03 nm for middle and upper tropospheric concentrations. VCSELs have a wide current tuning capability and can probe each line by changing the laser injection current with only slight adjustments to the laser temperature. Switching between the absorption lines generally occurs near a fractional absorption of 10-3, though a hysteresis is built in to prevent rapid switching near this transition (generally a factor of four in each direction). The thresholds for line switching changes slightly with temperature and pressure, but it generally is in the -15 to -25 C frost point range.", 
+  "title": "Vertical Cavity Surface Emitting Laser Hygrometer"
+}

@@ -1,0 +1,34 @@
+{
+  "acronym": "MACS", 
+  "aircraft": [
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/James_Wilson", 
+    "name": "James Wilson", 
+    "organization": "University of Denver", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/MACS", 
+  "instrument": [
+    "Counterflow virtual impactor"
+  ], 
+  "measurements": [
+    "Particle size distribution"
+  ], 
+  "photo": null, 
+  "summary": "The Multiple Aerosol Collection System contains an impactor collector which permits the collection of particles on electron microscope grids for later chemical-constituent analysis.  The collector consists of a two stages.  In the first stage the pressure of the sample is reduced by a factor of two without loosing particles by impaction on walls.  The second stage consists of a thin plate impactor which collects efficiently even at small Reynolds numbers.  The system collects particles as small as 0.02 micron at WB-57 cruise altitudes.  As many as 24 samples can be collected in a flight.", 
+  "title": "Multi-sample Aerosol Collection System"
+}

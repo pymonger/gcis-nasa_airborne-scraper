@@ -1,0 +1,35 @@
+{
+  "acronym": "NIRSPEC", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Michael_J_Taylor", 
+    "name": "Michael J. Taylor", 
+    "organization": "Utah State University", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/NIRSPEC", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "Shock Emissions"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/NIRSPEC.jpg?itok=UYueaP04", 
+  "summary": "NIRSPEC detects shock emissions in the range 0.96 - 1.67 micron and measures blackbody continuum in the near-Infrared where the blackbody continuum peaks at lower temperatures.The instrument consists of an InGaAs camera with a 600 l/mm objective grating. The InGaAs camera detects stars of about J-magnitude +2, meteors of about magnitude -1. The co-aligned intensified camera detects stars of magnitude +6.", 
+  "title": "Utah State Near-Infrared Spectrometer"
+}

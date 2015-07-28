@@ -1,0 +1,35 @@
+{
+  "acronym": "", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Edward_L_Winstead", 
+    "name": "Edward L. Winstead", 
+    "organization": null, 
+    "phone": null, 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Ultrafine%20CN%20-%20LaRC", 
+  "instrument": [
+    "CN counter"
+  ], 
+  "measurements": [
+    "Particle concentration"
+  ], 
+  "photo": null, 
+  "summary": null, 
+  "title": "Ultrafine CN - LaRC"
+}

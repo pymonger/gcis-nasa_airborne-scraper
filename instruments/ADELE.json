@@ -1,0 +1,33 @@
+{
+  "acronym": "ADELE", 
+  "aircraft": [
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/David_Smith", 
+    "name": "David Smith", 
+    "organization": "University of California, Santa Cruz", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/ADELE", 
+  "instrument": [], 
+  "measurements": [
+    "Gamma-Rays", 
+    "Relativistic Electrons"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/ADELE%20re-installed%20AV-1.jpg?itok=J6L-MPaA", 
+  "summary": "The Airborne Detector for Energetic Lightning Emissions (ADELE) detects gamma-rays and relativistic electrons associated with lightning and thunderstorm charging. The primary scientific target is terrestrial gamma-ray flashes (TGFs), brief (< 1 millisecond), extremely bright bursts of high energy radiation that have mostly been detected from satellites in low Earth orbit. TGFs are usually simultaneous with intra-cloud lightning, but only a small fraction of these lightning flashes seem to produce them. The cause of TGFs, their connection with lightning, and whether they are frequent enough to be a radiation hazard to airline passengers and crew are all unanswered questions.ADELE is designed to study these events from close to their production site, where the signal can be much more intense than it is for the satellites 600 km away from the storm. On the AV-1 Globak Hawk in HS3, ADELE will pass above and near electrified storms in both the eyewall and rainband regions. \u00a0ADELE uses three scintillation detectors -- 5\" and 1\" diameter plastic scintillators and a 3\" diameter lanthanum bromide scintillator. \u00a0The plastic detectors provide the ability to measure extremely high count rates without saturation, and the lanthanum bromide detector provides improved spectroscopic information on the energy distribution of the gamma rays. \u00a0All three detectors are enclosed in a single box in the interior of the Global Hawk, since the gamma radiation (100 keV up to about 50 MeV) is highly penetrating.", 
+  "title": "Airborne Detector for Energetic Lightning Emissions"
+}

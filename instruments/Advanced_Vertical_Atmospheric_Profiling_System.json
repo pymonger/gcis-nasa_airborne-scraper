@@ -1,0 +1,37 @@
+{
+  "acronym": "AVAPS", 
+  "aircraft": [
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }
+  ], 
+  "contact": {
+    "address": "325 Broadway R/PSD2 Boulder , CO 80305 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Gary_Wick", 
+    "name": "Gary Wick", 
+    "organization": "NOAA Earth System Research Laboratory", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Advanced_Vertical_Atmospheric_Profiling_System", 
+  "instrument": [
+    "Dropsonde"
+  ], 
+  "measurements": [
+    "Pressure", 
+    "Temperature", 
+    "Humidity", 
+    "Wind"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/AV-6%20AVAPS%20Team%20loads%20Sondes%2026Aug%2713.jpg?itok=it43D0by", 
+  "summary": "The Advanced Vertical Atmospheric Profiling System (AVAPS) is the dropsonde system for the Global Hawk. The Global Hawk dropsonde is a miniaturized version of standard RD-93 dropsondes based largely on recent MIST driftsondes deployed from balloons. The dropsonde provides vertical profiles of pressure, temperature, humidity, and winds. Data from these sondes are transmitted in near real-time via Iridium or Ku-band satellite to the ground-station, where additional processing will be performed for transmission of the data via the Global Telecommunications System (GTS) for research and operational use. The dispenser is located in zone 61 in the Global Hawk tail and is capable of releasing up to 88 sondes in a single flight.", 
+  "title": "Advanced Vertical Atmospheric Profiling System"
+}

@@ -1,0 +1,36 @@
+{
+  "acronym": "DASH-SP", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Armin_Sorooshian", 
+    "name": "Armin Sorooshian", 
+    "organization": "University of Arizona", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/DASH-SP", 
+  "instrument": [
+    "Differential mobility", 
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "Aerosol Hygroscopicity"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/DASH_SEAC4RS.jpg?itok=QzhO5s2n", 
+  "summary": "The DASH-SP will provide rapid measurements of aerosol sub-saturated hygroscopic growth factors aboard the NASA DC-8 during the SEAC4RS field campaign. DASH-SP measurements in the critically important southeast Asian region will afford a valuable opportunity to examine the relationship between aerosol composition and water-uptake properties in order to improve model parameterizations of aerosol-water interactions.", 
+  "title": "Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe"
+}

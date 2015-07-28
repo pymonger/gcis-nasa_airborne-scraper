@@ -1,0 +1,34 @@
+{
+  "acronym": "PM-GFCR", 
+  "aircraft": [
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Glen_Sachse", 
+    "name": "Glen Sachse", 
+    "organization": null, 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/PM-GFCR", 
+  "instrument": [
+    "Radiometer"
+  ], 
+  "measurements": [
+    "C2H6"
+  ], 
+  "photo": null, 
+  "summary": "A non-mechanical optical switch is provided for alternately switching a monochromatic or quasi-monochromatic light beam along two optical paths. A polarizer polarizes light into a single, e.g., vertical component which is then rapidly modulated into vertical and horizontal components by a polarization modulator. A polarization beam splitter then reflects one of these components along one path and transmits the other along the second path. In the specific application of gas filter correlation radiometry, one path is directed through a vacuum cell and one path is directed through a gas correlation cell containing a desired gas. Reflecting mirrors cause these two paths to intersect at a second polarization beam splitter which reflects one component and transmits the other to recombine them into a polarization modulated beam which can be detected by an appropriate single sensor.", 
+  "title": "Polarization Modulated Gas Filter Correlation Radiometer"
+}

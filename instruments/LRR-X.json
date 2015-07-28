@@ -1,0 +1,36 @@
+{
+  "acronym": "LRR-X", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Clarksville , MD United States", 
+    "href": "http://airbornescience.nasa.gov/person/Eric_Smith", 
+    "name": "Eric Smith", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/LRR-X", 
+  "instrument": [
+    "Radiometer"
+  ], 
+  "measurements": [
+    "Precipitation Size", 
+    "Rain Rate"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/LRR-X.jpg?itok=PfHpUkF_", 
+  "summary": "The X-band LRR, which is suitable for aircraft or space-based platforms, enables markedly improved measurement of precipitation drop size and distribution (at 10.7 GHz), as well as rain rate and surface wind speeds, when used in conjunction with other instruments, such as the PR-2. With a receiver less than 1/8th the size and using 50% less power than predecessors, the LRR could lead to a space-borne 25 channel synthetic aperture radiometer that would not be strictly limited by size and power requirements.The core technology of the LRR \u2013 a synthetically thinned aperture radiometer (STAR) \u2013 demonstrated the feasibility of a one-dimensional geometric interferometer (no moving parts) for future NASA X-band missions. The lack of a mechanical scanning apparatus found on traditional radiometers makes the LRR payload smaller, lighter, and cheaper to launch while also reducing the complexity and risk of the instrument. The team also conducted an antenna design study that validated the STAR technology in the critical Ku- and Ka-bands.", 
+  "title": "X-Band Lightweight Rainfall Radiometer"
+}

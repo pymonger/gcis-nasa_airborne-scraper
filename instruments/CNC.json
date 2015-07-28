@@ -1,0 +1,53 @@
+{
+  "acronym": "CNC", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }, 
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/James_Wilson", 
+    "name": "James Wilson", 
+    "organization": "University of Denver", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CNC", 
+  "instrument": [
+    "CN counter"
+  ], 
+  "measurements": [
+    "Cloud Condensation Nuclei"
+  ], 
+  "photo": null, 
+  "summary": "The CNC counts particles in the approximate diameter range from 0.006 m to 2 m.  The instrument operates by exposing the articles to saturated Flourinert vapor at 28 C and then cooling the sample in a condenser at 5 C.  The supersaturation of the vapor increases as it is cooled and the vapor condenses on the particles causing them to grow to sizes which are easily detected.  The resulting droplets are passed through a laser beam and the scattered light is detected.  Individual particles are counted and are referred to as condensation nuclei (CN).  Two CN Counters are provided in the instrument.  One counts the particles after sampling from the atmosphere and the second counts particles that have survived heating to 192C.  Lab experiments show that pure sulfuric acid particles smaller than 0.05 mm are volatilized in the heater.  The heated channel detects when small particles are volatile and permits speculation about the composition.  The CNC II contains an impactor collector which permits the collection of particles on electron microscope grids for later analysis.  The collector consists of a two stages.  In the first stage the pressure of the sample is reduced by a factor of two without loosing particles by impaction on walls.  The second stage consists of a thin plate impactor which collect efficiently even at small Reynolds numbers.  The system collects particles as small as 0.02 m at WB-57 cruise altitudes.  As many as 25 samples can be collected in a flight.", 
+  "title": "Condensation Nuclei Counter"
+}

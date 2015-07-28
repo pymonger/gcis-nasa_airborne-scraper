@@ -1,0 +1,37 @@
+{
+  "acronym": "HIWRAP", 
+  "aircraft": [
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }
+  ], 
+  "contact": {
+    "address": "Mesoscale Atmospheric Processes Laboratory Code 612, Building 33, Rm A405 Greenbelt , MD 20771 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Gerald_Heymsfield", 
+    "name": "Gerald Heymsfield", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": "tel:tel:+1-301-614-6369", 
+    "role": "PI", 
+    "website": "http://har.gsfc.nasa.gov"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/HIWRAP", 
+  "instrument": [
+    "Radar", 
+    "Scatterometer"
+  ], 
+  "measurements": [
+    "Radar Reflectivity", 
+    "Doppler Velocity", 
+    "Wind"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/473493main_grip-globalhawk2.jpg?itok=h0AgEeI3", 
+  "summary": "HIWRAP (High-Altitude Imaging Wind and Rain Airborne Profiler) is a dual-frequency radar (Ka- and Ku-band), dual-beam (300 and 400 incidence angle), conical scan, solid-state transmitter-based system, designed for operation on the high-altitude (20 km) Global Hawk UAV. HIWRAP characteristics: Conically scanning; Simultaneous Ku/Ka-band & two beams @30 and 40 deg; Winds using precipitation & clouds as tracers; Ocean vector wind scatterometry; Map the 3-dimensional winds and precipitation within hurricanes and other severe weather events; Map ocean surface winds in clear to light rain regions using scatterometry.", 
+  "title": "High Altitude Imaging Wind and Rain Airborne Profiler"
+}

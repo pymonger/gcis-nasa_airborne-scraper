@@ -1,0 +1,39 @@
+{
+  "acronym": "ASUR", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Germany", 
+    "href": "http://airbornescience.nasa.gov/person/Harry_Kullmann", 
+    "name": "Harry Kullmann", 
+    "organization": "University of Bremen", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/ASUR", 
+  "instrument": [
+    "Radiometer"
+  ], 
+  "measurements": [
+    "ClO", 
+    "HCl", 
+    "HNO3", 
+    "N2O", 
+    "O3"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/ASUR.jpg?itok=ywr9tSle", 
+  "summary": "The ASUR (Airborne SUbmillimeter Radiometer) is an airborne radiometer measuring the thermal emission of trace gases in the stratosphere (in an altitude range between 15 and 50 km). The instrument detects the radiation in a frequency range between 604.3 and 662.3 GHz. This corresponds to wavelengths of about 0.45-0.5 mm. In this frequency range a major part of the radiation is absorbed by atmospheric water vapor. As most of the water vapor is found in the troposphere (in the Arctic up to 8 km, in the tropics up to 16 km altitude) the instrument is operated on board of an aircraft flying at an altitude of 10-12 km, such that a major part of the water vapor absorption is avoided. Using appropriate inversion techniques vertical profiles from 15 to over 50 km altitude can be retrieved with a vertical resolution of typically 6 km and 12 km in the lower and upper stratosphere, respectively.", 
+  "title": "Airborne Submillimeter Radiometer"
+}

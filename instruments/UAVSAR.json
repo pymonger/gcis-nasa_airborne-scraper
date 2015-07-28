@@ -1,0 +1,32 @@
+{
+  "acronym": "UAVSAR", 
+  "aircraft": [
+    {
+      "name": "C-20A (G-3) - Armstrong", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": "4800 Oak Grove Drive MS 300-235 Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Yunling_Lou", 
+    "name": "Yunling Lou", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": "tel:tel:+1-818-354-2647", 
+    "role": "PI", 
+    "website": "http://uavsar.jpl.nasa.gov/"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/UAVSAR", 
+  "instrument": [
+    "Radar"
+  ], 
+  "measurements": [
+    "Imagery"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/Slide06.jpg?itok=susJY-7Y", 
+  "summary": "UAVSAR, a reconfigurable, polarimetric L-band synthetic aperture radar (SAR), is specifically designed to acquire airborne repeat track SAR data for differential interferometric measurements.Differential interferometry can provide key deformation measurements, and is important for studies of earthquakes, volcanoes and other dynamically changing phenomena.Using precision real-time GPS and a sensor controlled flight management system, the system can fly predefined paths with great precision (to be within a 10 m diameter tube about the desired flight track).The radar is designed to be operable on a UAV (Uninhabited Aerial Vehicle), but will initially be demonstrated on a NASA Gulfstream III. The radar is fully polarimetric, with a range bandwidth of 80 MHz (2 m range resolution), and a range swath greater than 16 km.The antenna may be electronically steered along track to assure that the antenna beam can be directed independently, regardless of speed and wind direction.Other features supported by the antenna include elevation monopulse and pulse-to-pulse re-steering capabilities that will enable some novel modes of operation. The system will nominally operate at 41,000 ft (13800 m).The program began as an Instrument Incubator Project (IIP) funded by NASA Earth Science Technology Office (ESTO).", 
+  "title": "Uninhabited Aerial Vehicle Synthetic Aperture Radar"
+}

@@ -1,0 +1,29 @@
+{
+  "acronym": "ATLAS", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }
+  ], 
+  "contact": null, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/lowenstein.gif?itok=smyIypX1", 
+  "href": "http://airbornescience.nasa.gov/instrument/ATLAS", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "N2O", 
+    "CH4", 
+    "CO", 
+    "O3"
+  ], 
+  "photo": null, 
+  "summary": "ATLAS uses a tunable laser to detect an infrared-active target gas such as N2O, methane, carbon monoxide, or ozone. The laser source is tuned to an individual roto-vibrational line in an infrared absorption band of the target gas, and is frequency modulated at 2 kHz. The instrument detects the infrared target gas by measuring the fractional absorption of the infrared beam from the tunable diode laser as it traverses a multipass White cell containing an atmospheric sample at ambient pressure.Synchronous detection of the resultant amplitude modulation at 2kHz and 4kHz yields the first and second harmonics of the generally weak absorption feature with high sensitivity (DI/I < 1E-5). Part of the main beam is split off through a short cell containing a known amount of the target gas to a reference detector. The reference first harmonic signal is used to lock the laser frequency to the absorption line center, while the second harmonic signal is used to derive the calibration factor needed to convert the measurement beam second harmonic amplitude into absolute gas concentration. A zero beam is included to correct for background gas absorption occurring outside the multipass cell. The response time of the instrument is set by the gas flow rate through the White cell, which is normally adjusted to give a new sample every second. Periodic standard additions of the target gas are injected into the sample stream as a second method to calibrate the measurement technique and as an overall instrument diagnostic.", 
+  "title": "Airborne Tunable Laser Absorption Spectrometer"
+}

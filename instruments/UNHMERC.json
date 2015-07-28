@@ -1,0 +1,36 @@
+{
+  "acronym": "UNHMERC", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Morse Hall 39 College Road Durham , NH 03824-3525 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Robert_Talbot", 
+    "name": "Robert Talbot", 
+    "organization": "University of New Hampshire", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/UNHMERC", 
+  "instrument": [
+    "Fluorescence", 
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "Hg"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/unhmerc.jpg?itok=6aLK-HRk", 
+  "summary": "The UNHMERC instrument provides detailed information on atmospheric mercury. Measurements of total gaseous mercury (TGM) and gaseous elemental mercury (Hg\u00b0) are performed simultaneously with one minute time resolution using a custom four-channel atomic fluorescence spectrometer. The relative amount of reactive gaseous mercury (RGM = HgCl2 + HgBr2+ HgOBr + \u2026) will be assessed through careful examination of the difference between TGM and Hg\u00b0. TGM is defined as the sum Hg\u00b0 + RGM. Targeted aerosol sampling will also be conducted for particulate-phase mercury (HgP).", 
+  "title": "UNH Mercury"
+}

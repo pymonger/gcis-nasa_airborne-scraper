@@ -1,0 +1,62 @@
+{
+  "acronym": "JLH", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }, 
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "California Institute of Technology 4800 Oak Grove Drive Mail Stop 183-401 Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Robert_L_Herman", 
+    "name": "Robert L. Herman", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": "tel:tel:+1-818-393-4720", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/JLH", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "H2O"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/JLH_SEAC4RS.jpg?itok=cN5awu6m", 
+  "summary": "The JPL Laser Hygrometer (JLH) is an autonomous spectrometer to measure atmospheric water vapor from airborne platforms. It is designed for high-altitude scientific flights of the NASA ER-2 aircraft to monitor upper tropospheric (UT) and lower stratospheric (LS) water vapor for climate studies, atmospheric chemistry, and satellite validation. JLH will participate in the NASA SEAC4RS field mission this year. The light source for JLH is a near-infrared distributed feedback (DFB) tunable diode laser that scans across a strong water vapor vibrational-rotational combination band absorption line in the 1.37 micrometer band. Both laser and detector are temperature\u2010stabilized on a thermoelectrically-cooled aluminum mount inside an evacuated metal housing. A long optical path is folded within a Herriott Cell for sensitivity to water vapor in the UT and LS. A Herriott cell is an off-axis multipass cell using two spherical mirrors [Altmann et al., 1981; Herriott et al., 1964]. The laser beam enters the Herriott cell through a hole in the mirror that is closest to the laser. The laser beam traverses many passes of the Herriott cell and then returns through the same mirror hole to impinge on a detector.", 
+  "title": "JPL Laser Hygrometer"
+}

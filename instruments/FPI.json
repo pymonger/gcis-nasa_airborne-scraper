@@ -1,0 +1,36 @@
+{
+  "acronym": "FPI", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Goddard Space Flight Center Bldg. 33 Rm. E416 Code 614 Greenbelt , MD 20771 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Jay_R_Herman", 
+    "name": "Jay R. Herman", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": "tel:tel:+1-301-614-6039", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/FPI", 
+  "instrument": [
+    "Interferometer"
+  ], 
+  "measurements": [
+    "O2", 
+    "CO2"
+  ], 
+  "photo": null, 
+  "summary": "A Fabry-Perot interferometer is constructed of two very flat, partially reflecting mirrors held parallel to one another at a fixed distance. Interference occurs among the multiple reflections leading to the condition that wavelengths that exactly divide the spacing between the mirrors by an integer are transmitted very efficiently and all other wavelengths are reflected. Thus if the plates are held fixed at a separation of 10 \u03bcm, then radiation at 10, 5, 3.333, \u2026 \u03bcm will be transmitted. Note that these wavelengths are equally spaced in energy according to the relationship E=hc/l, where l is the wavelength of the light and h and c are Planck\u2019s constant and the speed of light, respectively. This particular FPI technique makes use of these multiple passbands to increase the measurement signal and the resulting signal to noise ratio.A Fabry-Perot can be tuned to transmit different wavelengths by changing the (optical) spacing between the mirrors. This is commonly done by employing piezo-electric transducers to translate the mirrors by very small distances, while maintaining the very precise parallelism between them. Fixed gap Fabry-Perots can be tuned by tilting, which changes the effective path length between the plates; by using the thermal expansion and contraction of the spacers between the mirrors; and by changing the composition or pressure of the gas that fills the space between the plates, which alters the index of refraction thereby changing the optical separation. Finally, Fabry-Perots can be constructed using a solid substrate of fused silica or optical quality glass onto which reflective coatings are deposited. These devices can be angle tuned or temperature tuned.", 
+  "title": "Fabry-Perot Interferometer"
+}

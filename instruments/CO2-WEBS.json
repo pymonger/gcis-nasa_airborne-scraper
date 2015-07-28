@@ -1,0 +1,32 @@
+{
+  "acronym": "CO2-WEBS", 
+  "aircraft": [
+    {
+      "name": "Balloon", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": "Mail Stop 183-401 4800 Oak Grove Drive Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Lance_Christensen", 
+    "name": "Lance Christensen", 
+    "organization": null, 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CO2-WEBS", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "CO2"
+  ], 
+  "photo": null, 
+  "summary": null, 
+  "title": "CO2 Weather Balloon Spectrometer"
+}

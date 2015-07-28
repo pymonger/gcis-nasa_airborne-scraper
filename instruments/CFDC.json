@@ -1,0 +1,42 @@
+{
+  "acronym": "CFDC", 
+  "aircraft": [
+    {
+      "name": "Citation", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Department of Atmospheric Science Campus Delivery 1371 Fort Collins , CO 80523 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Paul_J_DeMott", 
+    "name": "Paul J. DeMott", 
+    "organization": "Colorado State University", 
+    "phone": "tel:tel:+1-970-491-8257", 
+    "role": "PI", 
+    "website": "http://lamar.colostate.edu/~pdemott/"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CFDC", 
+  "instrument": [
+    "Optical particle counter"
+  ], 
+  "measurements": [
+    "Particle size distribution"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/KA1.jpg?itok=99VidTte", 
+  "summary": "The continuous flow diffusion chambers are oriented for vertical flow through an annular space. They are constructed of two cylindrical, thin, ebonized copper walls that are separated by approximately 1.1 cm. The walls of the CFDC are force-cooled either by circulating coolant through copper tubing coils surrounding the outer wall and inside the inner wall (laboratory CFDC) or by using these same coolant coils as evaporators for refrigeration compressor units (aircraft CFDC).  In operation, the walls are coated with ice, achieved by flooding the chamber with water. An inlet manifold directs sample air containing aerosol particles into the center of a laminar flow field where the sample is surrounded on either side by particle-free sheath air (or N2). By varying the set temperatures of the two walls, the warm wall provides a vapor source to the cold wall so that water vapor and temperature fields are created. These fields and airflow determine the conditions of exposure for the aerosols during their typical 5 to 20 s residence time in the CFDC. Ice particles grow to relatively large sizes compared to aerosol particles and are distinguished from them using an optical particle counter (0.4 to 20 mm) at the base of the CFDC.The aircraft CFDC transitions to a hydrphobic warm wall surface in the lower third of the device so that liquid water drops formed at RH>100% will evaporate, leaving only ice crystals as large particles. The only other physical differences between the two devices is the fact that the laboratory CFDC is approximately 50% longer, providing additional ice crystal growth time at ambient lab pressures and the laboratory device has associated equipment for aerosol generation and preconditioning.An impactor is sometimes used following the optical counter to collect ice crystals onto specialized transmission electron microscope (TEM) grids for analysis of the residual particles. Calculations of air flow, temperature, and humidity are made assuming steady-state conditions (Rogers, 1988). The temperature and supersaturation range are determined by wall temperatures and air flow.", 
+  "title": "Continuous Flow Diffusion Chambers"
+}

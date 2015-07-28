@@ -1,0 +1,76 @@
+{
+  "acronym": "POS AV", 
+  "aircraft": [
+    {
+      "name": "B200 - LARC", 
+      "organization": [
+        "NASA Langley Research Center"
+      ], 
+      "summary": "The NASA Langley Beechcraft B200 King Air (NASA 529) is an all-metal, twin-turboprop research aircraft. NASA Langley acquired this aircraft in 1996 for program support. The aircraft has been modified with two nadir-viewing ports: 29.5 x 29.5-in. in the forward section of the passenger cabin and 26.75 x 22.5 in. in the aft section. These downward-looking portals allow the use of a wide variety of optical, laser, or R-F based devices that might require a nadir look angle out of the aircraft. Research-supporting subsystems, such as electrical power distribution, TCAS, GPS and satellite phone communications also have been installed. The crown of the aircraft has been structurally modified to accommodate atmospheric sensors, such as an isokinetic aerosol inlet. Finally, a pylon has been mounted beneath each wingtip. These pylons are suitable for carrying aerosol probes with weights of up to 50 lbs. In its current configuration, the aircraft serves as the primary flight platform for a suite of aerosol and cloud remote-sensing instruments, including the NASA Langley High Spectral Resolution LIDAR (HSRL). The aircraft is fully IFR capable.The research power system contains three 50-A AC inverters which supply up to 4200 W of research power. An Iridium satellite phone system has been installed to facilitate both remote voice communications as well as data modem transfer.This aircraft nominally flies mission profiles up to altitudes of 28,000 ft, but with prior coordination, is capable of conducting operations in the National Airspace System up to the aircraft's service ceiling of 35,000 ft. Typically, the aircraft can carry a 1000-lbs payload, three crewmembers (two flight crew and one system operator) and remain airborne for four hours covering approximately 800 n.mi. The aircraft is limited to a maximum certified takeoff weight of 13,500 lbs. The aircraft has successfully operated in both domestic and international deployments. In summary, the NASA Langley B200 aircraft and its flight team provide an efficient and effective operational platform for small to medium-sized science payloads, especially those requiring or desiring unique integration, dedicated flight profiles, coordinated flights with other platforms, or flight patterns in congested airspace.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/B200_-_LARC"
+    }, 
+    {
+      "name": "Caravan", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "Cessna 402B", 
+      "organization": [
+        "University Technical Services, Inc."
+      ], 
+      "summary": "University Technical Services, Inc. operates a twin-engine Cessna 402B aircraft for low altitude sensor platforms and scientific equipment. One area involves enhanced flight vision system (EFVS) sensor and synthetic vision system (SVS) evaluation. The aircraft has mulitiple nose coses for housing various windows for IR, millimeter wave, and UV forward-looking sensors, whose images are displayed on a head-up display (HUD) or head-down display, with simultaneous recording of three inputs (sensor/SVS, HUD, CCD normal vision camera). Data recording of aircraft attitude and position information is provided by the mission computer. The Cessna 402B also supports evaluation of other scientific equipment platforms such as advanced inertial management units (IMU). Air-ground video and data link communication capabilities are also supported on this aircraft.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Cessna_402B"
+    }, 
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "J-31", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "Airborne Sensor Facility MS244-15 Moffett Field , CA 94035 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Jeffrey_Myers", 
+    "name": "Jeffrey Myers", 
+    "organization": "NASA Ames Research Center", 
+    "phone": "tel:tel:+1-650-604-3598", 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/POS%20AV", 
+  "instrument": [
+    "Navigation recorder"
+  ], 
+  "measurements": [
+    "Aircraft position"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/POS-AV1.jpg?itok=_cidtnzk", 
+  "summary": "POS AV is a hardware and software system specifically designed for direct georeferencing of airborne sensor data. By integrating precision GNSS with inertial technology, POS AV enables geospatial projects to be completed more efficiently, effectively, and economically. POS AV is engineered for aerial cameras, scanning lasers, imaging sensors, synthetic aperture radar, and LIDAR technology.", 
+  "title": "Applanix POS System"
+}

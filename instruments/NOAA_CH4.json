@@ -1,0 +1,34 @@
+{
+  "acronym": "NOAA CH4", 
+  "aircraft": [
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "Chemical Sciences Division Boulder , CO 80305 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Erik_Richard", 
+    "name": "Erik Richard", 
+    "organization": "NOAA Earth System Research Laboratory", 
+    "phone": "tel:tel:+1-303-497-3536", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/NOAA_CH4", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "CH4"
+  ], 
+  "photo": null, 
+  "summary": "The tunable diode laser (TDL) absorption instrument consists of a very high resolution scanning near-infrared diode laser spectrometer. The laser diode is a 3 mW single-mode distributed feedback (DFB) InGaAsP/InP laser that is cooled and temperature stabilized via a Peltier cooler. The laser is scanned in frequency by varying the injection current linearly. The resulting frequency scan covers the entire CH4 R(3) ro-vibrational transition in the 2\u03bd3 overtone band at 1.653 \u03bcm.Because the line strengths are very weak for this overtone transition, the laser beam is multipassed through a custom designed low volume astigmatic Herriott cell yielding a total optical pathlength of 245 m. The transmitted light is detected by a dc-coupled InGaAsP detector and digitized by a custom 20-bit A/D converter. This ADC is synchronized to the 16-bit software generated laser scan waveform running in continuous DMA mode. The laser scans continuously over the methane absorption at a rate of 0.25 - 0.5 KHz and coadds typically 100 scans in a 2 second integration time.By use of the Beer-Lambert law, the methane number density is calculated from the direct absorption measurements. This calculation is performed by a non-linear least squares Voigt fitting program. The program constraints include the measured cell temperature and pressure in addition to the known absorption line strengths and pressure broadening coefficients associated with the three transitions that make up the R(3) lineshape.", 
+  "title": "Methane Near IR Tunable Diode Laser Absorption Spectrometer"
+}

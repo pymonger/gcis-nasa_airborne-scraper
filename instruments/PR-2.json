@@ -1,0 +1,35 @@
+{
+  "acronym": "PR-2", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Eastwood_Im", 
+    "name": "Eastwood Im", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/PR-2", 
+  "instrument": [
+    "Radar"
+  ], 
+  "measurements": [
+    "Doppler radar backscatter"
+  ], 
+  "photo": null, 
+  "summary": "The Second Generation Precipitation Radar (PR-2) is a dual-frequency, Doppler, dual-polarization radar system.The airborne PR-2 system includes a real-time pulse compression processor, a fully-functional control and timing unit, and a very compact LO/IF module, all of which could be used in spaceborne applications.The RF circuitry can be divided into two categories: circuits operating at frequencies of less than 1.5 GHz and circuits operating at frequencies above 1.5 GHz. The lower frequency (below 1.5 GHz) circuitry is all contained in a single unit, the local oscillator / intermediate frequency (LO/IF) module. This unit converts transmit chirp signals from 15 MHz up to 1405 MHz and downconverts received IF signals from 1405 MHz to 5 MHz. The unit contains both upconversion channels and all four receive channels and fits into the equivalent of a double wide 6U-VME card.The RF front-end electronics are unique to the airborne PR-2 design and consist of five units: one local oscillator / up converter (LO/U) unit, two TWTAs and two waveguide front end (WGFE) units. In the DC-8 installation, the two TWTAs are stacked vertically in a standard rack with the LO/U in between them and the two WGFEs are mounted on top of the antenna pressure box, near the antenna feed. A calibration loop is included for each channel. This feeds some of the transmit power to the receiver, allowing in-flight variations of the transmit power and receiver gain to be monitored and removed from the data.The digital electronics consists of a control and timing unit (CTU), an arbitrary waveform generator (AWG), and a data processor. The CTU generates the pulse timing and all other timing signals. It also provides control signals to RF. The AWG is loaded with a digital version of the linear FM chirp that is to be transmitted. The data processor is based on FPGA technology. It performs pulse compression and averaging in real-time.The 4 MHz bandwidth received signals are sampled at 20 MHz, then digitally downconverted to complex samples, resulting in I and Q samples at 5 MHz rate. The data processor also includes pulse-pair Doppler processing. The output of the processor is the lag-0 (power) and lag-1 (complex Doppler data) for the co- and crosspolarized channels at each frequency. A VME-based workstation runs the radar, including ingesting and saving the processed data. Following calibration on the ground, the PR-2 data are stored in an HDF format.", 
+  "title": "Dual-Frequency Airborne Precipitation Radar"
+}

@@ -1,0 +1,36 @@
+{
+  "acronym": "C-STAR", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Anthony_Guillory", 
+    "name": "Anthony Guillory", 
+    "organization": "NASA Marshall Space Flight Center", 
+    "phone": null, 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/C-STAR", 
+  "instrument": [
+    "Radiometer"
+  ], 
+  "measurements": [
+    "Wind", 
+    "Rain Rate"
+  ], 
+  "photo": null, 
+  "summary": "C-STAR measures precipitation, surface water and near ocean surface wind speed and direction.", 
+  "title": "Conically-Scanning Two-look Airborne Radiometer"
+}

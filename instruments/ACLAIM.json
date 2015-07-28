@@ -1,0 +1,35 @@
+{
+  "acronym": "ACLAIM", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Edward_Teets", 
+    "name": "Edward Teets", 
+    "organization": "NASA Armstrong (Dryden) Flight Research Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/ACLAIM", 
+  "instrument": [
+    "Lidar"
+  ], 
+  "measurements": [
+    "Doppler Lidar"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/aclaim.jpg?itok=YsmlAIrK", 
+  "summary": "ACLAIM is a 2-micron lidar operating at 100 pulses per second using an 8 cm diameter expanded beam. It was developed for advanced turbulence detection with applications to supersonic inlet control, mitigation of aircraft gust response and aircrew / passenger warning for improved seatbelt utilization.", 
+  "title": "Airborne Coherent Lidar for Advanced In-flight Measurements"
+}

@@ -1,0 +1,36 @@
+{
+  "acronym": "HUPCRS", 
+  "aircraft": [
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Steven_C_Wofsy", 
+    "name": "Steven C. Wofsy", 
+    "organization": "Harvard University", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/HUPCRS", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "CH4", 
+    "CO2", 
+    "CO"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/HUPCRS.JPG?itok=6v__bGal", 
+  "summary": null, 
+  "title": "Harvard University Picarro Cavity Ring Down Spectrometer"
+}

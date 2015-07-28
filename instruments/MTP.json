@@ -1,0 +1,83 @@
+{
+  "acronym": "MTP", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }, 
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }, 
+    {
+      "name": "L-188C", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "M-55", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "M/S 168-314 4800 Oak Grove Drive Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Richard_Denning", 
+    "name": "Richard Denning", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": "tel:tel:+1-661-400-2018", 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/951211a.gif?itok=br9dXsHs", 
+  "href": "http://airbornescience.nasa.gov/instrument/MTP", 
+  "instrument": [
+    "Microwave Radiometer"
+  ], 
+  "measurements": [
+    "Temperature"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/MTP_SEAC4RS.jpg?itok=3PAelbwM", 
+  "summary": "The Microwave Temperature Profiler (MTP) is a passive microwave radiometer, which measures the natural thermal emission from oxygen molecules in the earth\u2019s atmosphere for a selection of elevation angles between zenith and nadir. The current observing frequencies are 55.51, 56.65 and 58.80 GHz. The measured \"brightness temperatures\" versus elevation angle are converted to air temperature versus altitude using a quasi-Bayesian statistical retrieval procedure. The MTP has no ITAR restrictions, has export compliance classification number EAR99/NLR. An MTP generally consists of two assemblies: a sensor unit (SU), which receives and detects the signal, and a data unit (DU), which controls the SU and records the data. In addition, on some platforms there may be a third element, a real-time analysis computer (RAC), which analyzes the data to produce temperature profiles and other data products in real time. The SU is connected to the DU with power, control, and data cables. In addition the DU has interfaces to the aircraft navigation data bus and the RAC, if one is present. Navigation data is needed so that information such as altitude, pitch and roll are available. Aircraft altitude is needed to perform retrievals (which are altitude dependent), while pitch and roll are needed for controlling the position of a stepper motor which must drive a scanning mirror to predetermined elevation angles. Generally, the feed horn is nearly normal to the flight direction and the scanning mirror is oriented at 45-degrees with respect to receiving feed horn to allow viewing from near nadir to near zenith. At each viewing position a local oscillator (LO) is sequenced through two or more frequencies. Since a double sideband receiver is used, the LO is generally located near the \"valley\" between two spectral lines, so that the upper and lower sidebands are located near the spectral line peaks to ensure the maximum absorption. This is especially important at high altitudes where \"transparency\" corrections become important if the lines are too \"thin.\" Because each frequency has a different effective viewing distance, the MTP is able to \"see\" to different distances by changing frequency. In addition, because the viewing direction is also varied and because the atmospheric opacity is temperature and pressure dependent, different effective viewing distances are also achieved through scanning in elevation . If the scanning is done so that the applicable altitudes (that is, the effective viewing distance times the sine of the elevation angle) at different frequencies and elevation angles are the same, then inter-frequency calibration can also be done, which improves the quality of the retrieved profiles. For a two-frequency radiometer with 10 elevation angles, each 15-second observing cycle produces a set of 20 brightness temperatures, which are converted by a linear retrieval algorithm to a profile of air temperature versus altitude, T(z). Finally, radiometric calibration is performed using the outside air temperature (OAT) and a heated reference target to determine the instrument gain. However, complete calibration of the system to include \"window corrections\" and other effects, requires tedious analysis and comparison with radiosondes near the aircraft flight path. This is probably the most important single factor contributing to reliable calibration. For stable MTPs, like that on the DC8, such calibrations appear to be reliable for many years. Such analysis is always performed before MTP data are placed on mission archive computers.", 
+  "title": "Microwave Temperature Profiler"
+}

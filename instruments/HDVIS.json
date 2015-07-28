@@ -1,0 +1,20 @@
+{
+  "acronym": "HDVIS", 
+  "aircraft": [], 
+  "contact": {
+    "address": "Airborne Sensor Facility MS244-15 Moffett Field , CA 94035 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Jeffrey_Myers", 
+    "name": "Jeffrey Myers", 
+    "organization": "NASA Ames Research Center", 
+    "phone": "tel:tel:+1-650-604-3598", 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/HDVIS", 
+  "instrument": [], 
+  "measurements": [], 
+  "photo": null, 
+  "summary": null, 
+  "title": "HDVIS"
+}

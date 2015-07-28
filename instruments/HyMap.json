@@ -1,0 +1,43 @@
+{
+  "acronym": "HyMap", 
+  "aircraft": [
+    {
+      "name": "Cessna 402B", 
+      "organization": [
+        "University Technical Services, Inc."
+      ], 
+      "summary": "University Technical Services, Inc. operates a twin-engine Cessna 402B aircraft for low altitude sensor platforms and scientific equipment. One area involves enhanced flight vision system (EFVS) sensor and synthetic vision system (SVS) evaluation. The aircraft has mulitiple nose coses for housing various windows for IR, millimeter wave, and UV forward-looking sensors, whose images are displayed on a head-up display (HUD) or head-down display, with simultaneous recording of three inputs (sensor/SVS, HUD, CCD normal vision camera). Data recording of aircraft attitude and position information is provided by the mission computer. The Cessna 402B also supports evaluation of other scientific equipment platforms such as advanced inertial management units (IMU). Air-ground video and data link communication capabilities are also supported on this aircraft.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Cessna_402B"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Terry_Cocks", 
+    "name": "Terry Cocks", 
+    "organization": "HyVista Corp", 
+    "phone": "tel:tel:+61-2-9878-0977", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/budmapcol.jpg?itok=BXB-8Vnz", 
+  "href": "http://airbornescience.nasa.gov/instrument/HyMap", 
+  "instrument": [
+    "Spectrometer"
+  ], 
+  "measurements": [
+    "Imagery"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/hymap1.jpg?itok=UhaQsbY-", 
+  "summary": "The HyMap scanner, built by Integrated Spectronics Inc of Sydney, Australia, has four spectrometers in the interval 0.45 to 2.45 nanometers excluding the two major atmospheric water absorption windows. The bandwidths are not constant, but vary between 15 and 18 nanometers. The scanner also has an on-board bright source calibration system, which is used to monitor the stability of the signal. The signal/noise ratio measured outside the aircraft with a sun angle of 30\u00b0 and a 50% reflectance standard is more than 500/1 except near the major atmospheric water absorption bands. The scanner is mounted on a hydraulically actuated Zeiss-Jena SM 2000 stabilized platform. The platform provides +/- 5 degrees of pitch and roll correction. The yaw can be offset by +/- 20 degrees with +/- 8 degrees of stabilization. The platform provides a residual error in nadir pointing of less than 1 degree and reduces aircraft motion effects by a factor ranging from 10:1 to 30:1.The basic HyMap specifications are:IFOV: 2.5 mr along track, 2.0 mr across track (Spatial resolution 3.5\u201310 m) FOV: 62 degrees (512 pixels)", 
+  "title": "HyMap"
+}

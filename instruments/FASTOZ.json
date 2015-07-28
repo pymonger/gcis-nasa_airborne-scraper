@@ -1,0 +1,35 @@
+{
+  "acronym": "FASTOZ", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Atmospheric Composition Branch MS 483 Hampton , VA 23681 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Melody_Avery", 
+    "name": "Melody Avery", 
+    "organization": "NASA Langley Research Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/FASTOZ", 
+  "instrument": [
+    "Chemiluminescence"
+  ], 
+  "measurements": [
+    "O3"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/FastOz_file-photo.jpg?itok=5xvUkMfi", 
+  "summary": "\u2022 Technique: Chemluminescent reaction of ozone with nitric oxide \u2022 Dynamic Range: 0.6 - 1600 ppb \u2022 Accuracy: 5% or 2 ppb \u2022 Precision: 2% or 0.6 ppb \u2022 Response: 2-3 Hz; recorded at 6 Hz, reported at 1 Hz, faster data on request \u2022 Spatial Resolution: <10 m vertical (aircraft spiral), 200 m horizontal (at 400 kts)", 
+  "title": "Langley In Situ Fast-Response Ozone Measurements"
+}

@@ -1,0 +1,32 @@
+{
+  "acronym": "Fast-O3", 
+  "aircraft": [
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Teresa_Campos", 
+    "name": "Teresa Campos", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Fast-O3", 
+  "instrument": [
+    "Chemiluminescence"
+  ], 
+  "measurements": [
+    "O3"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/hais-fast03.jpg?itok=xy8tmijS", 
+  "summary": "The operating principle of the O3 instrument is the measurement of chemiluminescence from the reaction of nitric oxide (NO) with ambient O3 using a dry-ice cooled, red-sensitive photomultiplier employing photon counting electronics.The reagent NO (grade > 99%) is supplied from a commercially purchased lecture bottle filled to a maximum pressure of 500 psig. Since NO is a toxic gas, the small high pressure cylinder, its regulator, and several safety features are contained inside a specially designed pressure safe vessel that is vented overboard the aircraft.Ambient air is sampled through a standard HIMIL inlet protruding outside the aircraft boundary layer. Ambient air sample flow is controlled to 500 sccm, while the NO reagent is introduced to the reaction vessel in near-excess flow of ~ 4 sccm. Gas flows as well as the reaction vessel temperature (35 \u00b1 0.1\u00b0C) and pressure (10 \u00b1 0.05 torr) are all controlled at constant conditions resulting in maximum stability of the detected signal and instrument sensitivity.The instrument sensitivity (~2000 cps/ppbv) is determined from calibrations performed on the ground before and after each flight or set of back-to-back flights using a UV absorption based calibrator (TECO model 49PS) operated with high-quality ultra-pure air. A near-linear calibration curve is generated in 100 ppb intervals from 0 to 1 ppm. This calibration range is sufficient to measure O3 mixing ratios over the altitude range of the aircraft.", 
+  "title": "HAIS Fast-O3"
+}

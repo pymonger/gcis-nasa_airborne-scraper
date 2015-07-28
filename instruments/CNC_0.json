@@ -1,0 +1,30 @@
+{
+  "acronym": "CNC/EAS", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/James_Wilson", 
+    "name": "James Wilson", 
+    "organization": "University of Denver", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CNC_0", 
+  "instrument": [], 
+  "measurements": [], 
+  "photo": null, 
+  "summary": "Instrument: Condensation Nucleus Counters (CNCs) andElectrical Aerosol Sampler (EAS)Principal Investigator: James C. WilsonOrganization: University of Denver Department of Engineering 2390 S. York Street Denver, CO 80208Instrument Description: Two condensation nucleus counters (CNCs) have been developed for use on the NASA ER-2 high altitude research aircraft. One CNC measures the number concentration of aerosol particles having diameters in the 0.01 to about 1.0 micron range, while the second uses a heated (150 oC) inlet to vaporize volatile components and then measures the number concentration of residue particles. Used together, the CNCs discriminate between particles composed of volatile materials (i.e., sulfuric acid), and those containing components that are non-volatile at temperatures of 150 oC. For SPADE, the CNCs should be able to distinguish between particles containing carbon soot (an aircraft exhaust product) and background sulfate particles.Two aerosol collectors have been developed for the SPADE mission. The first uses electrical precipitation to collect particles with diameters greater than 0.01 microns on electron microscope grids. Similar samples, but of particles with diameters greater than about 0.1 microns, are taken concurrently with an impactor. The sealed samples are then returned to the laboratory for analysis by analytical electron microscopy. Up to 25 samples may be collected by each method during a single flight.Instrument Function: The CNCs function by saturating an aerosol sample with warm alcohol vapor and then cooling the sample so that the alcohol vapor condenses on the particles. The particles grow by vapor deposition to a size such that the individual particles are easily detected by a simple optical particle counter.The aerosol collectors function by two different principles. In the electrical collector, a needle is forced into a corona discharge by high voltage. The sample is carried past the corona point, and unipolar ions produced by the corona attatch to the particles, causing them to become charged. The charged particles are then collected on a grounded electron microscope grid. In the impactor, the air sample is accelerated through a nozzle and forced around a sharp bend. Particles larger than about 0.1 micron diameter cannot follow the streamlines and instead impact onto an electron microscope grid located at the bend.Accuracy: The accuracy and precision of the CNCs is highly dependent on the aerosol size distribution. For aerosols whose number distribution is dominated by particles larger than 0.01 microns in diameter, the submicron number concentration is usually measured with an uncertainty of less than 20% and a precision smaller than 10%.Reference: Wilson, James Charles, Edmund D. Blackshear and Jong Ho Hyun. \"The Function and Response of an Improved Stratospheric Condensation Nucleus Counter.\" J. Geophys. Res. 88 (1983): 6781-6785.", 
+  "title": "Condensation Nucleus Counters (CNCs) and Electrical Aerosol Sampler (EAS)"
+}

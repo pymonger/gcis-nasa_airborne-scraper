@@ -1,0 +1,43 @@
+{
+  "acronym": "TOGA", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Eric_Apel", 
+    "name": "Eric Apel", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/TOGA", 
+  "instrument": [
+    "Gas chromatography", 
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "VOCs"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/sp6_acd_2hi.jpg?itok=k4Cf0ZVn", 
+  "summary": "TOGA measures volatile organic compounds (VOCs). Specific data will be obtained for radical precursors, tracers of anthropogenic and biogenic activities, tracers of urban and biomass combustion emissions, products of oxidative processing, precursors to aerosol formation, and compounds important for aerosol modification and transformation. TOGA measures a wide range of VOCs with high sensitivity (ppt or lower), frequency (2.0 min.), accuracy (15% or better), and precision (<3%). Over 30 species are routinely measured (see PDF for full table) throughout the full HIAPER altitude range.TOGA is contained in a standard HIAPER rack, weighs less than 200 kg and consumes ~1 kW of power. The major components of the instrument are the inlet, cryogenic preconcentrator, gas chromatograph, mass spectrometer detector, zero air/calibration system, and the control/data acquisition system. All processes and data acquisition are computer controlled.", 
+  "title": "Trace Organic Gas Analyzer"
+}

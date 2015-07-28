@@ -1,0 +1,37 @@
+{
+  "acronym": "QCLS", 
+  "aircraft": [
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Steven_C_Wofsy", 
+    "name": "Steven C. Wofsy", 
+    "organization": "Harvard University", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/QCLS", 
+  "instrument": [
+    "Laser absorption"
+  ], 
+  "measurements": [
+    "CO2", 
+    "CO", 
+    "CH4", 
+    "N2O"
+  ], 
+  "photo": null, 
+  "summary": "The Harvard QCLS (DUAL and CO2) instrument package contains 2 separate optical assemblies and calibration systems, and a common data system and power supply. The two systems are mounted in a single standard HIAPER rack, and are described separately below:The Harvard QCL DUAL instrument simultaneously measures CO, CH4, and N2O concentrations in situ using two thermoelectrically cooled pulsed-quantum cascade lasers (QCL) light sources, a multiple pass absorption cell, and two liquid nitrogen-cooled solid-state detectors. These components are mounted on a temperature-stabilized, vibrationally isolated optical bench with heated cover. The sample air is preconditioned using a Nafion drier (to remove water vapor), and is reduced in pressure to 60 mbar using a Teflon diaphragm pump. The trace gas mixing ratios of air flowing through the multiple pass absorption cell are determined by measuring absorption from their infrared transition lines at 4.59 microns for CO and 7.87 microns for CH4 and N2O using molecular line parameters from the HITRAN data base. In-flight calibrations are performed by replacing the air sample with reference gas every 10 minutes, with a low-span and a high-span gas every 20 minutes. A prototype of this instrument was flown on the NOAA P3 in the summer of 2004.The Harvard QCL CO2 instrument measures CO2 concentrations in situ using a thermoelectrically cooled pulsed-quantum cascade laser (QCL) light source, gas cells, and liquid nitrogen cooled solid-state detectors. These components are stabilized along the detection axis, vibrationally isolated, and housed in a temperature-controlled pressure vessel. Sample air enters a rear-facing inlet, is preconditioned using a Nafion drier (to remove water vapor), then is reduced in pressure to 60 mbar using a Teflon diaphragm pump. A second water trap, using dry ice, reduces the sample air dewpoint to less than \u201370C prior to detection. The CO2 mixing ratio of air flowing through the sample gas cell is determined by measuring absorption from a single infrared transition line at 4.32 microns relative to a reference gas of known concentration. In-flight calibrations are performed by replacing the air sample with reference gas every 10 minutes, and with a low-span and a high-span gas every 20 minutes.", 
+  "title": "Quantum Cascade Laser System"
+}

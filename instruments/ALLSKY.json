@@ -1,0 +1,35 @@
+{
+  "acronym": "ALLSKY", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Peter_Jenniskens", 
+    "name": "Peter Jenniskens", 
+    "organization": "Search for ExtraTerrestrial Intelligence Institute", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/ALLSKY1.jpg?itok=Tosl-2AI", 
+  "href": "http://airbornescience.nasa.gov/instrument/ALLSKY", 
+  "instrument": [
+    "Camera"
+  ], 
+  "measurements": [
+    "Imagery"
+  ], 
+  "photo": null, 
+  "summary": "ALLSKY is a wide field intensified camera with all-sky lens. It measures total radiative output in the 400 - 900 nm band.This camera consists of a 15 mm f2.8 Canon lens, an XX1332 image intensifier with large 48-mm photocathode, and a Sony handycam camcorder (recording of video output on Hi-8 tape in NTSC format - 640 x 480 pixels). The field of view is about 160\u00ba when mounted so that the dome does not obstruct. Moonlight is blocked by covering the zenith part of the dome.", 
+  "title": "Intensified All-sky Camera"
+}

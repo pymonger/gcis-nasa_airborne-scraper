@@ -1,0 +1,35 @@
+{
+  "acronym": "D8D", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Mesoscale Atmospheric Processes Laboratory Code 612, Building 33, Rm A405 Greenbelt , MD 20771 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Gerald_Heymsfield", 
+    "name": "Gerald Heymsfield", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": "tel:tel:+1-301-614-6369", 
+    "role": "PI", 
+    "website": "http://har.gsfc.nasa.gov"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/D8D", 
+  "instrument": [
+    "Dropsonde"
+  ], 
+  "measurements": [
+    "Temperature"
+  ], 
+  "photo": null, 
+  "summary": "DC-8 dropsondes measure the vertical profile of atmospheric temperature, pressure, relative humidity, and wind speed and direction as the sonde falls from altitude to ocean surface.", 
+  "title": "Dropsondes - DC-8"
+}

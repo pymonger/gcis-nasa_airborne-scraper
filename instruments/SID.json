@@ -1,0 +1,60 @@
+{
+  "acronym": "SID", 
+  "aircraft": [
+    {
+      "name": "C-130H Hercules", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates two NASA C-130H Hercules research aircraft to support airborne scientific research activities. The C-130H is used to perform scientific research, provide logistics support on an as-needed basis to other airborne science missions, and can be used as a technology test bed for new airborne and satellite instrumentation. These aircraft are also available to support range surveillance and recovery operations as needed. The C-130H is a self-sufficient aircraft that can operate from short field civilian and military airports to remote areas of the world in support of scientific studies and other operations.The C-130H is a four-engine turboprop aircraft designed for maximum payload capacity. The C-130H, NASA 439, has been extensively modified to support airborne science related activities. The aircraft has two large nadir ports. One nadir port is approximately 50 inches in diameter (pressurized) and the other nadir port is approximately 24 inches in diameter (unpressurized). A large removable side fuselage plug exists on the port side of the aircraft just forward of the wings. An experimental power system is installed in the aircraft as well as a variety of other small fuselage ports. The aircraft also is capable of carrying 5 cargo pallets that can be utilized to carry cargo or modified to support instrument racks and seats. The large rear cargo door allows for easy installation of large instruments and payloads. The aircraft is equipment with external fuel tanks to increase range and duration.The C-130H, NASA 436, is currently under modification to support future airborne science research needs.The performance numbers presented below are based on a 20,000lb payload. Heaiver payload may reduce aircraft range and duration.The Aircraft Office is committed to providing safe, reliable, and cost effective platforms for airborne research and other flight activities.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/C-130H_Hercules"
+    }, 
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "P.O. Box 3000 Boulder , CO 80307 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Andrew_Heymsfield", 
+    "name": "Andrew Heymsfield", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": "tel:tel:+1-303-497-8943", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/SID", 
+  "instrument": [
+    "Particle imager"
+  ], 
+  "measurements": [
+    "Particle size distribution"
+  ], 
+  "photo": null, 
+  "summary": null, 
+  "title": "Small Ice Detector"
+}

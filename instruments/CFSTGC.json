@@ -1,0 +1,41 @@
+{
+  "acronym": "CFSTGC", 
+  "aircraft": [
+    {
+      "name": "Balloon", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Edward_L_Winstead", 
+    "name": "Edward L. Winstead", 
+    "organization": null, 
+    "phone": null, 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CFSTGC", 
+  "instrument": [
+    "CN counter"
+  ], 
+  "measurements": [
+    "Cloud Condensation Nuclei"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/CCNc6.jpg?itok=yt2OdyuS", 
+  "summary": "Developed by Droplet Measurement Technologies, the CFSTGC is based on a concept by Roberts and Nenes [2005]. The instrument counts the fraction of aerosol particles that become droplets when exposed to a given water vapor supersaturation (RH > 100%).As with all CCN counters, a temperature gradient is applied to produce a supersaturation of water vapor. However, the mechanism for generating supersaturation is not the same for all CCN counters. For example, for continuous flow parallel plate diffusion chambers, the temperature gradient is perpendicular to the flow, and supersaturation is a result of the nonlinear dependence of vapor pressure upon temperature. The same mechanism applies for static diffusion cloud chambers, where there is no flow at all.However, as the name implies, for the Continuous Flow Streamwise Thermal Gradient CCN Counter, the temperature gradient is in the streamwise direction (maintained by thermoelectric coolers). In this case, supersaturation results as a consequence of the greater rate of mass transfer over heat transfer.With laminar flow, heat and water vapor are transferred to the centerline of the column from the walls only by diffusion.Since molecular diffusivity is greater than thermal diffusivity, the distance downstream that a water molecule travels before reaching the centerline is less than the distance the heat travels downstream before reaching the centerline. If you pick a point at the centerline, the heat originated from a greater distance upstream than the water vapor.There are four facts that are necessary to explain how supersaturation is generated within the CFSTGC:1) Assuming that the inner surface of the column is saturated with water vapor at all points, since the temperature is greater at point B than at point A, the water vapor partial pressure is also greater at point B than at point A.2) The actual partial pressure of water vapor at point C is equal to the partial pressure of water vapor at point B.3) However, since the temperature at point C is the same as at point A, the equilibrium water vapor pressure at point C is equal to the water vapor partial pressure at point A.4) The saturation ratio is the ratio between the actual partial pressure of water vapor and the equilibrium vapor pressure. This is equivalent to the partial pressure at point B divided by the partial pressure at point A, which is always greater than one. Thus supersaturation is generated through a dynamic equilibrium.", 
+  "title": "Continuous Flow Streamwise Thermal Gradient CCN Counter"
+}

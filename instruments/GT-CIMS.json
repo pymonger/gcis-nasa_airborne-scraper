@@ -1,0 +1,48 @@
+{
+  "acronym": "GT-CIMS", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/L_Greg_Huey", 
+    "name": "L. Greg Huey", 
+    "organization": "Georgia Institute of Technology", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/GT-CIMS", 
+  "instrument": [
+    "CIMS"
+  ], 
+  "measurements": [
+    "HNO3", 
+    "SO2", 
+    "HNO4", 
+    "HCl", 
+    "Br2", 
+    "BrO", 
+    "PAN"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/Huey_SO2_HNO4.jpg?itok=8qo1o5hI", 
+  "summary": "The CIMS instrument consists of a low pressure ion molecule reactor (IMR) coupled to a quadrupole mass filter by an actively pumped collisional dissociation chamber (CDC) and an octopole ion guide. The vacuum system is a 100 mm outer diameter stainless steel chamber evacuated with two small turbo pumps (70 l s -1 ). The mass filter is a set of 9.5 mm diameter quadrupole rods housed in the main vacuum chamber. The CDC is a short 80 mm diameter chamber that houses an octopole ion guide and is evacuated with a hybrid molecular drag pump. The IMR is evacuated with a scroll pump (300 l min -1 ) that also serves as the backing pump for the mass spectrometer.", 
+  "title": "Chemical Ionization Mass Spectrometer"
+}
