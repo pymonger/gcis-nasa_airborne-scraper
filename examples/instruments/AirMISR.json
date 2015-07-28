@@ -1,0 +1,35 @@
+{
+  "acronym": "AirMISR", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }
+  ], 
+  "contact": {
+    "address": "California Institute of Technology MS 233-200 4800 Oak Grove Drive Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Dave_Diner", 
+    "name": "Dave Diner", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/AirMISR", 
+  "instrument": [
+    "Camera", 
+    "Spectrometer"
+  ], 
+  "measurements": [
+    "Topography"
+  ], 
+  "photo": null, 
+  "summary": "The Airborne Multi-angle Imaging SpectroRadiometer (AirMISR) is an airborne instrument for obtaining multi-angle imagery similar to that of the satellite-borne Multi-angle Imaging SpectroRadiometer (MISR) instrument, which is designed to contribute to studies of the Earth's ecology and climate. AirMISR flies on the NASA ER-2 aircraft. The Jet Propulsion Laboratory in Pasadena, California built the instrument for NASA.Unlike the spaceborne MISR instrument, which has nine cameras oriented at various angles, AirMISR utilizes a single camera in a pivoting gimbal mount. A data run by the ER-2 aircraft is divided into nine segments, each with the camera positioned to a MISR look angle. The gimbal rotates between successive segments, such that each segment acquires data over the same area on the ground as the previous segment. This process is repeated until all nine angles of the target area are collected. The swath width, which varies from 11 km in the nadir to 32 km at the most oblique angle, is governed by the camera's instantaneous field-of-view of 7 meters cross-track x 6 meters along-track in the nadir view and 21 meters x 55 meters at the most oblique angle. The along-track image length at each angle is dictated by the timing required to obtain overlap imagery at all angles, and varies from about 9 km in the nadir to 26 km at the most oblique angle. Thus, the nadir image dictates the area of overlap that is obtained from all nine angles. A complete flight run takes approximately 13 minutes.", 
+  "title": "Airborne Multi-angle Imaging SpectroRadiometer"
+}

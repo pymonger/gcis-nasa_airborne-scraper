@@ -1,0 +1,24 @@
+{
+  "acronym": "PRISM", 
+  "aircraft": [], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Pantazis_Mouroulis_0", 
+    "name": "Pantazis Mouroulis", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": "tel:tel:+1-818-393-2599", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/PRISM", 
+  "instrument": [
+    "Spectrometer"
+  ], 
+  "measurements": [
+    "Imagery"
+  ], 
+  "photo": null, 
+  "summary": "The coastal zone is home to a high fraction of humanity and increasingly affected by natural and human-induced events from tsunamis to toxic tidal blooms. Current satellite data provide a broad overview of these events but do not have the necessary spectral, spatial and temporal, resolution to characterize and understand these events.To address this gap, a compact, lightweight, airborne Portable Remote Imaging SpectroMeter (PRISM) compatible with a wide range of piloted and Uninhabited Aerial Vehicle (UAV) platforms are curently being developed at the Jet Propulsion Laboratory.  Operating between the spectral range of 350 nm and 1050 nm, PRISM will offer high temporal resolution and below cloud flight altitudes to resolve spatial features as small as 30 cm.  The sensor performance exceeds the state of the art in light throughput, spectral and spatial uniformity, and polarization insensitivity by factors of 2-10, while at the same time extending the spectral range into the ultraviolet.  PRISM will also have a two-channel spot radiometer at short-wave infrared (SWIR) band (1240 nm and 1640 nm).  It will be in co-alignment with the spectrometer in order to provide accurate atmospheric correction of the ocean color measurements.The development of the PRISM instrument is supported by NASA Earth Science Division\u2019s the Ocean Biology and Biogeochemistry, Earth Science Technology, and Airborne Sciences programs within NASA\u2019s Earth Science Division.", 
+  "title": "Portable Remote Imaging Spectrometer"
+}

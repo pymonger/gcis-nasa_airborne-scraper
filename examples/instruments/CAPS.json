@@ -1,0 +1,58 @@
+{
+  "acronym": "CAPS", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }, 
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": "P.O. Box 3000 Boulder , CO 80307 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Andrew_Heymsfield", 
+    "name": "Andrew Heymsfield", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": "tel:tel:+1-303-497-8943", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CAPS", 
+  "instrument": [
+    "Particle imager", 
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "Aerosol", 
+    "Particle size distribution", 
+    "Temperature", 
+    "Pressure", 
+    "Cloud Liquid Water Content"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/CAPS.JPG?itok=QHsYKHMF", 
+  "summary": "Measures concentration and records images of cloud particles from approximately 50-1600 microns in diameter with a resolution of 25 microns per pixel.  Measures cloud droplet and aerosol concentrations within the size range of 0.5-50 microns.The three DMT instruments included in the CAPS are the Cloud Imaging Probe (CIP), the Cloud and Aerosol Spectrometer (CAS), and the Hotwire Liquid Water Content Sensor (Hotwire LWC).The CIP, which measures larger particles, operates as follows. Shadow images of particles passing through a collimated laser beam are projected onto a linear array of 64 photodetectors. The presence of a particle is registered by a change in the light level on each diode. The registered changes in the photodetectors are stored at a rate consistent with probe velocity and the instrument\u2019s size resolution. Particle images are reconstructed from individual \u201cslices,\u201d where a slice is the state of the 64-element linear array at a given moment in time. A slice must be stored each time interval that the particle advances through the beam a distance equal to the resolution of the probe. Optional grayscale imaging gives three levels of shadow recording on each photodetector, allowing more detailed information on the particles.The CAS, which measures smaller particles, relies on light-scattering rather than imaging techniques. Particles scatter light from an incident laser, and collecting optics guide the light scattered in the 4\u00b0 to 12\u00b0 range into a forward-sizing photodetector. This light is measured and used to infer particle size. Backscatter optics also measure light in the 168\u00b0 to 176\u00b0 range, which allows determination of the real component of a particle\u2019s refractive index for spherical particles.The Hotwire LWC instrument estimates liquid water content using a heated sensing coil. The system maintains the coil at a constant temperature, usually 125 \u00b0C, and measures the power necessary to maintain this temperature. More power is needed to maintain the temperature as droplets evaporate on the coil surface and cool the surface and surrounding air. Hence, this power reading can be used to estimate LWC. Both the LWC design and the optional PADS software contain features to ensure the LWC reading is not affected by conductive heat loss.", 
+  "title": "Cloud Aerosol and Precipitation Spectrometer"
+}

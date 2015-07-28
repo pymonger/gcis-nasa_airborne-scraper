@@ -1,0 +1,33 @@
+{
+  "acronym": "HARP", 
+  "aircraft": [
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Samuel_R_Hall", 
+    "name": "Samuel R. Hall", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/HARP", 
+  "instrument": [
+    "Radiometer"
+  ], 
+  "measurements": [
+    "Actinic Flux", 
+    "Irradiance"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/harp.jpg?itok=Rs7PBjdj", 
+  "summary": "The HIAPER Airborne Radiation Package (HARP) instrumentation is a comprehensive atmospheric radiation suite to measure spectrally resolved actinic flux and horizontally stabilized irradiance. HARP was developed in a collaborative effort between NCAR, the University of Colorado, the Leibniz-Institute for Tropospheric Research, Metcon, Inc and Enviscope GmbH. The package is part of the HIAPER Aircraft Instrumentation Solicitation (HAIS), funded by NSF.", 
+  "title": "HIAPER Airborne Radiation Package"
+}

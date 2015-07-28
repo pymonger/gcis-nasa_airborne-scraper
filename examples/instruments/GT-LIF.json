@@ -1,0 +1,37 @@
+{
+  "acronym": "GT-LIF", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/David_Tan", 
+    "name": "David Tan", 
+    "organization": "Georgia Institute of Technology", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/GT-LIF", 
+  "instrument": [
+    "Fluorescence"
+  ], 
+  "measurements": [
+    "NO", 
+    "CH2O", 
+    "NO2"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/GTLIF_inlet_01.jpg?itok=wYmpdRR7", 
+  "summary": "The Georgia Tech Laser-Induced Fluorescence instrument measures nitric oxide (NO), formaldehyde (HCHO), and nitrogen dioxide (NO2). Each species is measured by laser-induced fluorescence at reduced pressure. Ambient air is drawn in through a pinhole orifice into a pair of multipass White cells. The pressure in the White cells is maintained at 5-10 mbar to extend the fluorescence lifetime, and the multiple passes (typically 32-40) effectively extends the probe interaction volume. The ambient air is probed at 90o from the flow and the fluorescence collected at 90o to the flow and probe.NO is probed at the 226 absorption line and monitored at the 247 nm fluorescence. The laser pulse and scattering will be time-gated out using microchannel plate detectors. The expected 2-sigma limit of detection is 5 pptv/min. Formaldehyde is probed at 353 nm and the fluorescence monitored in a range from 400 to 450 nm. The expected performance is 10 pptv/min. NO2 will be probed near 435 nm and the fluorescence around 780 nm collected. Its expected performance is 15 pptv/min. In each case, the probe wavelength will be alternately switched from the absorption feature to a nearby \u201coff-line\u201d position to determine the background. The actual frequency will be monitored in reference cells. Calbration is done by standard addition to the airflow. The light sources used are custom-built cavities pumped by a diode-pumped Nd:YAG laser operating at ~10 kHz.", 
+  "title": "Georgia Tech Laser-Induced Fluorescence"
+}

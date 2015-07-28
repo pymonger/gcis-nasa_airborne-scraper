@@ -1,0 +1,34 @@
+{
+  "acronym": "GIFS", 
+  "aircraft": [
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": "Applied Physics Laboratory Laurel , MD 20723-6099 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Sam_Yee", 
+    "name": "Sam Yee", 
+    "organization": "Johns Hopkins University Applied Physics Laboratory", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/GIFS.jpg?itok=xZm8ILhn", 
+  "href": "http://airbornescience.nasa.gov/instrument/GIFS", 
+  "instrument": [
+    "Spectrometer"
+  ], 
+  "measurements": [
+    "Cloud Thickness"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/gifs_actual.jpg?itok=YjUOxodp", 
+  "summary": "The GIFS instrument, a tunable triple-etalon Fabry-Perot Imaging Spectrometer, is designed to measure the O2 absorption lines in solar radiation reflected off the Earth\u2019s surface. This optical technique can provide data to characterize cloud properties in 2 dimensions. The instrument also potentially provides measurements with spatial resolution, spatial coverage, revisit time, and precision/accuracy that would be difficult to obtain with existing methods.The instrument enables measurements of cloud top temperature, pressure and altitude on a global scale, when deployed in geostationary orbit. Introduction of these data points into weather forecasting models will lead to significant improvements in the forecasting of weather events, including hurricane motion and intensity. The GIFS instrument successfully flew and operated on-board a NASA P-3 Orion in multiple flights throughout January and February 2008.", 
+  "title": "Geostationary Imaging Fabry-Perot Spectrometer"
+}

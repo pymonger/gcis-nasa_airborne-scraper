@@ -1,0 +1,41 @@
+{
+  "acronym": "ULH", 
+  "aircraft": [
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "California Institute of Technology 4800 Oak Grove Drive Mail Stop 183-401 Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Robert_L_Herman", 
+    "name": "Robert L. Herman", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": "tel:tel:+1-818-393-4720", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/ULH", 
+  "instrument": [], 
+  "measurements": [
+    "H2O"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/D2010_0219_T11_LowRes.jpg?itok=zBRAdUfb", 
+  "summary": "ULH measures water vapor at high accuracy in the upper troposphere and lower stratosphere to meet the following science objectives:1. validation and scientific collaboration with NASA earth-monitoring satellite missions, principally the Aura satellite, http://aura.gsfc.nasa.gov/2. observations of stratospheric trace gases in the upper troposphere and lower stratosphere from the mid-latitudes into the tropics,3. sampling of polar stratospheric air and the break-up fragments of the air that move into the mid-latitudes, The ULH flights on Global Hawk will advance the state of the art technologically with remote command and control. ULH will provide real-time in-situ stratospheric water vapor measurements from Global Hawk.  Additionally, ULH will make continuous measurements during long-duration flights up to 33 hours, which would be impossible with manned aircraft.The advantages of ULH over other hygrometers are:\u2022 Small and lightweight instrument package, \u2022 No outgassing (achieved by mounting the open-path optical cell in the free air stream), \u2022 Fast time response measurements in and out of clouds, without contamination, \u2022 Accurate with a low detection limit <1 ppmv.", 
+  "title": "Unmanned Aerial System Laser Hygrometer"
+}

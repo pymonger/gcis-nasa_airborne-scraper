@@ -1,0 +1,44 @@
+{
+  "acronym": "AVOCET", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": "MS 483 Hampton , VA 23681 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Andreas_Beyersdorf", 
+    "name": "Andreas Beyersdorf", 
+    "organization": "NASA Langley Research Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/AVOCET", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "CO2"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/AVOCET_SEAC4RS.jpg?itok=DZn6EfkH", 
+  "summary": "The NASA Langley CO2 sampling system (AVOCET) has an extensive measurement heritage in tropospheric field campaigns, delivering high reliability over 3400 flight hours (452 science flights) and is recognized within the CO2 community as a benchmark for evaluating newly evolving remote CO2. Carbon dioxide measurements will be provided by a modified LI-COR model 6252 non-dispersive infrared spectrometer (NDIR). This instrument was adapted by the investigators for airborne sampling and has been successfully deployed aboard NASA research aircraft beginning with the PEM-West A mission in 1992, and more recently during the 2008 ARCTAS, 2009 ICE Bridge, and 2010 ASCENDS missions. The basic instrument is small (13 x 24 x 34 cm) and composed of dual 11.9 cm3 sample/reference cells, a feedback stabilized infrared source, 500 Hz chopper, thermoelectrically-cooled solid state PbSe detector, and a narrow band (150 nm) interference filter centered on the 4.26 \u03bcm CO2 absorption band. Using synchronous signal detection techniques, it operates by sensing the difference in light absorption between the continuously flowing sample and reference gases occupying each side of the dual absorption cell. Thus, by selecting a reference gas of approximately the same concentration as background air (~390 ppm), minute fluctuations in atmospheric concentration can be quantified with high precision. Precisions of \u2264 0.1 ppm (\u00b11\u03c3) for 1 Hz sampling rates are typical for our present airborne CO2 system when operated at 250 torr sample pressure.", 
+  "title": "Atmospheric Vertical Observations of CO2 in the Earth's Troposphere"
+}

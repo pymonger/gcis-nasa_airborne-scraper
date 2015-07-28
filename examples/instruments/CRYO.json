@@ -1,0 +1,33 @@
+{
+  "acronym": "CRYO", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "SSAI 21 Langly Blvd, Rm 140 Mail Stop 483 Hampton , VA 23681 United States", 
+    "href": "http://airbornescience.nasa.gov/person/John_Barrick", 
+    "name": "John Barrick", 
+    "organization": "NASA Langley Research Center", 
+    "phone": "tel:tel:+1-757-871-7218", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CRYO", 
+  "instrument": [], 
+  "measurements": [
+    "H2O"
+  ], 
+  "photo": null, 
+  "summary": "Water vapor concentrations are measured using the cryogenically-cooled, chilled mirror hygrometer (Buck Research model CR-1). This instrument has a wide dynamic range (-90 to +30 C or approximately 1 to 30,000 ppmv H2O) and reasonably rapid response time (2 to 20 seconds, depending on the temporal and quantitative characteristics of the change in water vapor concentrations). The model CR-1 hygrometer utilizes a cryogenically chilled mirror and electro-optical technique to determine the dew/frost point of a gas. The primary difference between the CR-1 and other chilled mirror hygrometers is the mechanism used to cool the mirror surface. The mirror surface on which the dew/frost layer is preserved is coupled to a rod cooled by LN2 cryogen. The mirror surface is heated to the dew/frost point by means of a heater winding attached to the mirror rod. A control circuit controlled by optics monitors the reflectance from a LED off the mirror surface and maintains the condensate layer at a preset level. A thermistor embedded in the mirror measures the surface temperature and is output as a direct reading of the dew/frost point of the sample gas.Air samples for the CR-1 hygrometer are provided by a separate window-mounted droplet-excluding inlet probe which has been used aboard the DC-8 platform in previous field missions. The in situ sampling probe consists of a stainless steel tubing inlet probe insert combined with a Rosemount type102 non-deiced temperature sensor housing. This type forward-facing probe provides inboard sampling of ambient air while maintaining efficient inertial separation of droplets and particles from the sampled air stream. The outer structural portion of the probe is manufactured by Rosemount Aerospace, Inc. and is flight-certified for use aboard both research and commercial jet aircraft. In normal subsonic flight, the inlet is self-pumping and develops enough pressure head to provide up to 15 liters/minute airflow through the approximately the 1 meter of \u00bc \u201c stainless steel tubing which connects the inlet to the sensors. The tubing used to supply the sample air to the hygrometer is heated to approximately 50\u00b0 C to avoid any chance of internal condensation in the sample line and reduce errors associated with wall effects.", 
+  "title": "Cryogenic Hygrometer"
+}

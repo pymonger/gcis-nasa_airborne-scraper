@@ -1,0 +1,30 @@
+{
+  "acronym": "", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }
+  ], 
+  "contact": {
+    "address": "325 Broadway 80305", 
+    "href": "http://airbornescience.nasa.gov/person/Ken_Kelly", 
+    "name": "Ken Kelly", 
+    "organization": "NOAA Earth System Research Laboratory", 
+    "phone": "tel:tel:+1-303-497-3355", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Lyman%20Alpha-Hygrometer", 
+  "instrument": [], 
+  "measurements": [], 
+  "photo": null, 
+  "summary": "Instrument: Lyman Alpha-HygrometerPrincipal Investigator: Ken KellyOrganization: NOAA/ERL/Aeronomy Laboratory 325 Broadway MS R/E/AL6 Boulder, CO 80303Principle of Operation: A 121.6 nm light source dissociates a fraction of the water and forms excited hydroxyl radicals. These radicals will either fluoresce at 309 nm or be quenched by air molecules. A PMT measures the 309 nm light, which is proportional to the water vapor mixing ratio. A photodiode monitors the 121.6 nm intensity at the same distance as the sample chamber center. An in-flight calibration is obtained from the measured absorption of 121.6 nm light by injected water vapor, the known absorption cross section and the chamber pressure. The hygrometer will measure total water.Accuracy: 6% Detection Limit: 0.1 ppmv Response Time: 1 Second Location on ER-2: Q-BayReference: Kley, D., A. Schmeltekopf, K. Kelly, R. Winkler, T. Thompson, M. McFarland. \"The U-2 Lyman-Alpha results from the 1980 Panama Experiment.\" The 1980 Stratospheric-Tropospheric Exchange Experiment. Ed: A.P.Margozzi. NASA Technical Memo 84297 (1983): 85-125.", 
+  "title": "Lyman Alpha-Hygrometer"
+}

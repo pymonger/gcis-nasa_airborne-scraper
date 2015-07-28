@@ -1,0 +1,41 @@
+{
+  "acronym": "AROTAL", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Laboratory for Atmospheres Greenbelt , MD 20771 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Thomas_J_McGee", 
+    "name": "Thomas J. McGee", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/AROTAL", 
+  "instrument": [
+    "Lidar", 
+    "Raman spectrometer"
+  ], 
+  "measurements": [
+    "Temperature", 
+    "Profile", 
+    "O3", 
+    "Aerosol Backscattering", 
+    "Aerosol Extinction", 
+    "Aerosol Depolarization Ratio"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/AROTAL_Ops.jpg?itok=ZfAgrTiG", 
+  "summary": "This is a stratospheric lidar which is configured to fly on the NASA DC-8. It is a zenith viewing instrument, which makes vertical profile measurements of ozone, aerosols and temperature. Stratospheric ozone can be measured at solar zenith angles greater than ~30 degrees, while temperature and aerosols require SZA > 90 degrees. The SNR is maximized under dark coonditions. The measurement of Near-field water vapor measurements is being investigated and could be readily implemented. The instrument utilizes a XeCl excimer laser and a Nd-YAG laser to make DIAL, Raman DIAL, and backscatter measurements. A zenith viewing 16\" telescope receives the lidar returns.", 
+  "title": "Airborne Raman Ozone, Temperature, and Aerosol Lidar"
+}

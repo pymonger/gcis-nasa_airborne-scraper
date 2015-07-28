@@ -1,0 +1,47 @@
+{
+  "acronym": "AESMIR", 
+  "aircraft": [
+    {
+      "name": "C-130H Hercules", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates two NASA C-130H Hercules research aircraft to support airborne scientific research activities. The C-130H is used to perform scientific research, provide logistics support on an as-needed basis to other airborne science missions, and can be used as a technology test bed for new airborne and satellite instrumentation. These aircraft are also available to support range surveillance and recovery operations as needed. The C-130H is a self-sufficient aircraft that can operate from short field civilian and military airports to remote areas of the world in support of scientific studies and other operations.The C-130H is a four-engine turboprop aircraft designed for maximum payload capacity. The C-130H, NASA 439, has been extensively modified to support airborne science related activities. The aircraft has two large nadir ports. One nadir port is approximately 50 inches in diameter (pressurized) and the other nadir port is approximately 24 inches in diameter (unpressurized). A large removable side fuselage plug exists on the port side of the aircraft just forward of the wings. An experimental power system is installed in the aircraft as well as a variety of other small fuselage ports. The aircraft also is capable of carrying 5 cargo pallets that can be utilized to carry cargo or modified to support instrument racks and seats. The large rear cargo door allows for easy installation of large instruments and payloads. The aircraft is equipment with external fuel tanks to increase range and duration.The C-130H, NASA 436, is currently under modification to support future airborne science research needs.The performance numbers presented below are based on a 20,000lb payload. Heaiver payload may reduce aircraft range and duration.The Aircraft Office is committed to providing safe, reliable, and cost effective platforms for airborne research and other flight activities.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/C-130H_Hercules"
+    }, 
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Edward_Kim", 
+    "name": "Edward Kim", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/AESMIR", 
+  "instrument": [
+    "Radiometer"
+  ], 
+  "measurements": [
+    "Imagery", 
+    "Snow Accumulation", 
+    "Sea Ice Surface Elevation", 
+    "H2O", 
+    "Temperature"
+  ], 
+  "photo": null, 
+  "summary": "The Airborne Earth Science Microwave Imaging Radiometer (AESMIR) is a passive microwave airborne imager covering the 6-100 GHz bands that are essential for observing key Earth System elements such as precipitation, snow, soil moisture, ocean winds, sea ice, sea surface temperature, vegetation, etc.AESMIR\u2019s channels are configured to enable it to simulate various channels on multiple satellite radiometers, including AMSR-E, SSMI, SSMIS, AMSU, ATMS, TMI, GMI, ATMS, & MIS. Programmable scan modes include conical and cross-track scanning. As such, AESMIR can serve as an inter-satellite calibration tool for constellation missions (e.g., GPM) as well as for long-term multi-satellite data series (Climate Data Records).The most unique/cutting edge feature of the instrument is its coverage of key water cycle microwave bands in a single mechanical package\u2014making efficient & cost-effective use of limited space on research aircraft, and maximizing the possibilities for co-flying with other instruments to provide synergistic science. State-of-the-art calibration, fully-polarimetric (4-Stokes) observations, and the ability to accommodate large/heavy sensors (up to 300 kg) are other features of AESMIR. AESMIR currently flies on the NASA P-3 aircraft.With these capabilities, AESMIR is an Earth Science facility for new microwave remote sensing discovery, pre-launch algorithm development, and post-launch Calibration/Validation activities, as well as serving as a technology risk reduction testbed for upcoming spaceborne radiometers. In the latter role, AESMIR is already supporting the GPM, Aquarius, and SMAP missions.", 
+  "title": "Airborne Earth Science Microwave Imaging Radiometer"
+}

@@ -1,0 +1,35 @@
+{
+  "acronym": "ESTAR (RadSTAR-P)", 
+  "aircraft": [
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/David_Levine", 
+    "name": "David Levine", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/ESTAR%20%28RadSTAR-P%29", 
+  "instrument": [
+    "Radiometer"
+  ], 
+  "measurements": [
+    "Soil Moisture", 
+    "Ocean Salinity"
+  ], 
+  "photo": null, 
+  "summary": "During the 1980s, in the framework of its Earth observation program, NASA organized several workshops at which scientists demonstrated the roles of soil moisture and ocean salinity in the global environmental system. Passive microwave radiometry could be used to measure these two geophysical parameters, but the most suitable frequency bands were those below 5 GHz and it was difficult to achieve the required spatial resolution with an antenna of reasonable size. NASA's Goddard Spaceflight Center, in collaboration with the University of Massachusetts at Amherst and the US Department of Agriculture, proposed the use of aperture synthesis as a solution to this problem for the first time and started to build an aircraft-borne prototype to test the concept. This NASA ESTAR (Electronically Scanned Thinned Array Radiometer) sensor was designed to be an L-band hybrid real- and synthetic-aperture radiometer and the instrument's validity was demonstrated in several USDA campaigns.", 
+  "title": "Electronically Scanning Thinned-Array Radiometer"
+}

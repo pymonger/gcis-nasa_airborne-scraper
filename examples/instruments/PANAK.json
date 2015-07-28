@@ -1,0 +1,48 @@
+{
+  "acronym": "PANAK", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Mail Stop 245-5/130 Moffett Field , CA 94035 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Hanwant_Singh", 
+    "name": "Hanwant Singh", 
+    "organization": "NASA Ames Research Center", 
+    "phone": "tel:tel:+1-650-604-6769", 
+    "role": "PI", 
+    "website": "http://geo.arc.nasa.gov/sgg/singh/"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/PANAK", 
+  "instrument": [
+    "Gas chromatography"
+  ], 
+  "measurements": [
+    "PPN", 
+    "PAN", 
+    "MEK", 
+    "IPN", 
+    "HCN", 
+    "CH3OH", 
+    "CH3NO3", 
+    "CH3CN", 
+    "CH3CHO", 
+    "CH3CH2CHO", 
+    "C2H5OH", 
+    "C2H5NO3", 
+    "C2Cl4", 
+    "(CH3)2CO"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/Don_and_Rick.jpg?itok=xhLTlt70", 
+  "summary": "The Ames PANAK instrument is a computerized 3- channel Capillary Gas Chromatographic system designed for the collection and analysis of low ppt (10-12 v/v) levels of peroxyacyl nitrates (PANs), alkyl nitrates, and tertrachloroethene in Channels 1 and 2; and C2-C3 aldehydes, C1-C2 alcohols, C3-C4 ketones, and C1-C2 nitriles in channel 3. Channels 1 and 2 use ECD detectors and have a sampling frequency of 2.5 minutes. Channel 3 uses a Photo Ionization detector placed in series with a Reduction Gas detector and has a sampling frequency of 5 minutes. The main manifold draws 5 SL/min of ambient air through a heated Teflon lined probe from which each of the three instrument channels draws a 200 ml aliquot of sample air. This aliquot is dried by passing it through a \u201335 \u00b0C cold trap, cooled to -140 \u00b0C for constituent pre concentration, and then heat desorbed into the gas chromatographic columns. All calibrations are performed in-flight by using an installed dilution system and in a manner that mimics ambient air sampling. Primary standards are generally referred to a series of permeation tubes. In addition high concentration standards are also carried on board. Sensitivities under typical conditions are: 1-3 ppt PANs, 1-5 ppt alkyl nitrates, 5-20 ppt OVOC, and 20-30 ppt nitriles.", 
+  "title": "PeroxyAcetylNitrate, Aldehydes and Ketones"
+}

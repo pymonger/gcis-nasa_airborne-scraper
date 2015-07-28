@@ -1,0 +1,24 @@
+{
+  "acronym": "SITPRI", 
+  "aircraft": [], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Ben_Holt", 
+    "name": "Ben Holt", 
+    "organization": "University of Kansas", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/SITPRI", 
+  "instrument": [
+    "Radar"
+  ], 
+  "measurements": [
+    "Ice Sheet Thickness"
+  ], 
+  "photo": null, 
+  "summary": "* Detection of ice bottom surface requires frequencies in the range of 0.1 to 0.3 GHz to overcome the high dielectric loss in complex scattering medium.* Detection of ice top surface is achieved with higher range of frequencies 0.8 to 1.2 GHz.* Utilization of wide radar bandwidth (0.1 - 1.2 GHz) enables fine vertical resolution.* Complementary sensors include laser altimeter (detects snow surface), snow radar (snow depth, 4-8 GHz) or radar altimeter (ice top surface).", 
+  "title": "Sea Ice Thickness Penetrating Radar Instrument"
+}

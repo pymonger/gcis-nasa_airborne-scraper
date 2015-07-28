@@ -1,0 +1,37 @@
+{
+  "acronym": "", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/David_Fahey", 
+    "name": "David Fahey", 
+    "organization": "NOAA Earth System Research Laboratory", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Reactive%20Nitrogen", 
+  "instrument": [], 
+  "measurements": [
+    "NO2", 
+    "NO3", 
+    "NOy", 
+    "NO", 
+    "N2O5", 
+    "ClONO2"
+  ], 
+  "photo": null, 
+  "summary": "Instrument: Reactive NitrogenPrincipal Investigator: David W. FaheyOrganization: NOAA Aeronomy Laboratory 325 Broadway,R/E/AL6 Boulder, CO 80303Principle of Operation: The instrument is designed to measure nitric oxide (NO) and the sum of reactive nitrogen oxides (NOy). Species included in NOy are NO, NO2, HNO3, N2O5 and ClONO2. NO is measured by detecting light from the chemiluminescent reaction between reagent ozone and NO in the ambient sample. NOy is reduced to NO by catalytic reduction on a gold surface with carbon monoxide (CO) acting as a reducing agent. The catalyst is located outside the aircraft fuselage in order to avoid inlet line losses. Two reaction vessels are incorporated in the instrument to allow for simultaneous measurement of NO and NOy. Ca1ibration with NO or NO2 is made by standard addition several times during a flight. The baseline of each measurement is determined in part by the addition of synthetic air that contains no reactive nitrogen. The difference between the sample flow velocity in the inlet opening and the aircraft velocity cause aerosol particles in the atmosphere to be oversampled. For sizes below 5 micrometers in diameter, this feature assists in the identification of aerosol particles that contain NOy.Accuracy: < 20% plus precision Detection limit: < 0.1 ppbv NOy, ~0.02 ppbv NO Response time: 1 sec Location on the ER2: Lower Q-bay rackReference: D.W. Fahey et al., In situ aerosol measurements of total reactive nitrogen, total water, and aerosol in a polar stratospheric cloud in the Antarctic, J. Geophys. Res. 94 11-99-11315, 1959.", 
+  "title": "Reactive Nitrogen"
+}

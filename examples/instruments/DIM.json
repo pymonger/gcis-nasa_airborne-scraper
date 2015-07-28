@@ -1,0 +1,35 @@
+{
+  "acronym": "DIM", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Paul_F_Wercinski", 
+    "name": "Paul F. Wercinski", 
+    "organization": "NASA Ames Research Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/DIM", 
+  "instrument": [
+    "Camera"
+  ], 
+  "measurements": [
+    "Imagery"
+  ], 
+  "photo": null, 
+  "summary": "The Ames digital imager is a cooled large format NikonTM1 D70 digital camera with a 70-300mm f5.6 Nikon lens. It is used hand-held behind a passenger window with exposure times 1/1000s. The camera uses a SONYTM ICX413AQ CCD detector with image format 3040 x 2014 pixels of size 7.8 microns. It measures total radiative output of the sample return capsule along its trajectory.", 
+  "title": "Ames Digital Imager"
+}

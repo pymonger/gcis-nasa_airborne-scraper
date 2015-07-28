@@ -1,0 +1,33 @@
+{
+  "acronym": "CLH2", 
+  "aircraft": [
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": "1234 Innovation Drive Boulder , CO 80303 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Linnea_Avallone", 
+    "name": "Linnea Avallone", 
+    "organization": null, 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CLH2", 
+  "instrument": [
+    "Laser absorption", 
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "H2O (total)"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/UniversityOfColoradoTotalWaterInstrument.jpg?itok=gdsd2xe5", 
+  "summary": "The University of Colorado Closed-path Laser Hygrometer, version 2 (CLH2) is an infrared absorption instrument designed to measure so-called \u201ctotal water\u201d, the sum of water vapor and particulate water. It is a second-generation sensor that derives from the original CLH, which has been flown on the NASA DC-8 and WB-57F and the NSF/NCAR G-V and C-130. This version of the instrument uses a fiber-coupled tunable diode laser at 1.37 \u03bcm to measure by absorption the water vapor resulting from the evaporation of cloud particles. The spectrometer will be housed in a modified PMS canister and coupled to a heated forward-facing inlet. Sampling of particles is deliberately sub-isokinetic, which results in enhancements of particle mass relative to ambient by factors ranging between 30 and 70. Therefore, condensed water even in very thin clouds can be measured with high precision and accuracy.", 
+  "title": "Closed-path Laser Hygrometer 2"
+}

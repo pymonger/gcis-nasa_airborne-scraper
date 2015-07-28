@@ -1,0 +1,59 @@
+{
+  "acronym": "CIT-CIMS", 
+  "aircraft": [
+    {
+      "name": "C-130H Hercules", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates two NASA C-130H Hercules research aircraft to support airborne scientific research activities. The C-130H is used to perform scientific research, provide logistics support on an as-needed basis to other airborne science missions, and can be used as a technology test bed for new airborne and satellite instrumentation. These aircraft are also available to support range surveillance and recovery operations as needed. The C-130H is a self-sufficient aircraft that can operate from short field civilian and military airports to remote areas of the world in support of scientific studies and other operations.The C-130H is a four-engine turboprop aircraft designed for maximum payload capacity. The C-130H, NASA 439, has been extensively modified to support airborne science related activities. The aircraft has two large nadir ports. One nadir port is approximately 50 inches in diameter (pressurized) and the other nadir port is approximately 24 inches in diameter (unpressurized). A large removable side fuselage plug exists on the port side of the aircraft just forward of the wings. An experimental power system is installed in the aircraft as well as a variety of other small fuselage ports. The aircraft also is capable of carrying 5 cargo pallets that can be utilized to carry cargo or modified to support instrument racks and seats. The large rear cargo door allows for easy installation of large instruments and payloads. The aircraft is equipment with external fuel tanks to increase range and duration.The C-130H, NASA 436, is currently under modification to support future airborne science research needs.The performance numbers presented below are based on a 20,000lb payload. Heaiver payload may reduce aircraft range and duration.The Aircraft Office is committed to providing safe, reliable, and cost effective platforms for airborne research and other flight activities.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/C-130H_Hercules"
+    }, 
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }
+  ], 
+  "contact": {
+    "address": "GPS/EAS MC 131-24 1200 E. California Blvd. Pasadena , CA 91125 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Paul_Wennberg", 
+    "name": "Paul Wennberg", 
+    "organization": "California Institute of Technology", 
+    "phone": null, 
+    "role": "PI", 
+    "website": "http://wennberg-wiki.caltech.edu/"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CIT-CIMS", 
+  "instrument": [
+    "CIMS"
+  ], 
+  "measurements": [
+    "HNO3", 
+    "H2O2", 
+    "CH3OOH", 
+    "HCN", 
+    "PAA", 
+    "PNA", 
+    "SO2"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/CIMSProbe.jpg?itok=OQtBCXmQ", 
+  "summary": "The single mass analyzer CIMS (S-CIMS) was developed for use on NASA\u2019s ER-2 aircraft. Its first measurements were made in 2000 (SOLVE). Subsequently, it has flown on the NASA DC-8 aircraft for INTEX-NA, DICE, TC4, and ARCTAS, as well as on the NCAR C-130 during MILAGRO/INTEX-B. HNO3 is measured by selective ion chemical ionization via the fluoride transfer reaction:CF3O - + HNO3 \u2192 HF \u2022 NO3 - + CF2OIn addition to its fast reaction rate with HNO3, CF3O - can be used to measure additional acids and nitrates as well as SO2 [Amelynck et al., 2000; Crounse et al., 2006; Huey et al., 1996]. We have further identified CF3O - chemistry as useful for the measurement of less acidic species via clustering reactions [Crounse et al., 2006; Paulot et al., 2009a; Paulot et al., 2009b; St. Clair et al., 2010]:CF3O - + HX \u2192 CF3O - \u2022 HX where, e.g., HX = HCN, H2O2, CH3OOH, CH3C(O)OOH (PAA)The mass analyzer of the S-CIMS instrument has recently been upgraded from a quadrupole to a time-of-flight (ToF) analyzer. The ToF admits the sample ion beam to the ion extractor, where a pulse of high voltage orthogonally deflects and accelerates the ions into the reflectron, which in turn redirects the ions toward the multichannel plate detector. Ions in the ToF follow a V-shaped, 43 cm path from extractor to detector, separating by mass as the smaller ions are accelerated to greater velocities by the high voltage pulse. The detector collects the ions as a function of time following each extractor pulse. The rapid-scan collection of the ToF guarantees a high temporal resolution (1 Hz or faster) and simultaneous data products from the S-CIMS instrument for all mass channels [Drewnick et al., 2005].We have flown a tandem CIMS (TCIMS) instrument in addition to the SCIMS since INTEX-B (2006). The T-CIMS provides parent-daughter mass analysis, enabling measurement of compounds precluded from quantification by the S-CIMS due to mass interferences (e.g. MHP) or the presence of isobaric compounds (e.g. isoprene oxidation products) [Paulot et al., 2009b; St. Clair et al., 2010].Calibrations of both CIMS instruments for HNO3 and organic acids are performed in flight using isotopically-labeled reagents evolved from a thermally-stabilized permeation tube oven [Washenfelder et al., 2003]. By using an isotopically labeled standard, the product ion signals are distinct from the natural analyte and calibration can be performed at any time without adversely affecting the ambient measurement. We also fly calibration standards for H2O2 (evolved from urea-hydrogen peroxide) and MHP (from a diffusion vial).", 
+  "title": "Chemical Ionization Mass Spectrometer"
+}

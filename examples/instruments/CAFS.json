@@ -1,0 +1,53 @@
+{
+  "acronym": "CAFS", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Samuel_R_Hall", 
+    "name": "Samuel R. Hall", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CAFS", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "Actinic Flux"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/CAFS_SEAC4RS.jpg?itok=4D4XnzAk", 
+  "summary": "The CCD Actinic Flux Spectroradiometers (CAFS) developed in the ARIM laboratory will be deployed on the NASA DC-8 for SEAC4RS and DC3 field campaigns. The instruments measure spectrally resolved down- and up-welling in situ ultraviolet and visible actinic flux from approximately 280-650 nm. Photolysis frequencies for photodissociation reactions for species including O3, NO2, CH2O, HONO, HNO3, N2O5, HO2NO2, PAN, H2O2, CH3OOH, CH3ONO2, CH3CH2ONO2, CH3COCH3, CH3CHO, CH3CH2CHO, CHOCHO, CH3COCHO, CH3CH2CH2CHO, CH3COCH2CH3, Br2, BrO, Br2O, BrNO3, BrCl, HOBr, BrONO2, Cl2, ClO, and ClONO2 are calculated from the radiative measurements. Careful calibration techniques and comparison to the NCAR/TUV radiative transfer model improves the accuracy and precision of the measurements. CAFS instruments have a successful heritage of radiation measurements during atmospheric chemistry and satellite validation missions including NASA AVE, PAVE, CR-AVE, TC-4 and ARCTAS campaigns on the WB-57 and DC-8 platforms and during the NSF OASIS ground campaign in Barrow, AK. Similar instruments will be deployed on the NCAR G-V platform as part of the HIAPER Airborne Radiation Package (HARP) as a part of DC3 and SEAC4RS. In situ solar radiation measurements are critical to NASA atmospheric composition research. Actinic flux radiation drives the chemistry of the atmosphere, including the evolution of ozone, greenhouse gases, biomass burning, and other anthropogenic and natural trace constituents. The evolution of boundary layer and tropospheric constituents convected to the upper troposphere and lower stratosphere requires knowledge of the complex radiative fields expected during the campaigns. The gases, in turn, control the chemical evolution of aerosols.", 
+  "title": "CCD Actinic Flux Spectroradiometers"
+}

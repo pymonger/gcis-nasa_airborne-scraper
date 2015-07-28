@@ -1,0 +1,34 @@
+{
+  "acronym": "WCN", 
+  "aircraft": [
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": "Research Aviation Facility 10802 Airport Court Broomfield , CO 80021 United States", 
+    "href": "http://airbornescience.nasa.gov/person/David_Rogers", 
+    "name": "David Rogers", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/WCN", 
+  "instrument": [
+    "CN counter"
+  ], 
+  "measurements": [
+    "Cloud Condensation Nuclei", 
+    "Temperature", 
+    "Pressure"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/WaterCN.jpg?itok=-l52b1rX", 
+  "summary": "The primary condensation nucleus counter used on the NSF/NCAR G-V is a modified version of the TSI 3786 Ultra-Fine Water-Based Condensation Nucleus Counter, with modifications made by Aerosol Dynamics, Inc., and Quant. The modifications were primarily to lower the temperature in the region where droplets grow on condensation nuclei, which was necessary because the 60 C growth temperature of the standard 3786 is the boiling point when the pressure is about 200 mb, and the GV flies well above this altitude. Other changes were made to the flow control, flow rates, pumps, and water injection scheme to adapt to the large altitude range of the G-V. One substantial advantage of this instrument over other CN counters is that it does not depend on butanol as the operating fluid and so does not require handling of a flammable gas around the aircraft or flight with a flammable substance.The threshold particle size detected by the WCN is about 5 nm, becoming larger at low pressure but remaining below the ultra-fine size range (<10 nm) at pressures as low as 150 mb. The instrument also is relatively insensitive to coincidence losses, continuing to perform with coincidence losses <10% up to concentrations around 10 5 cm-3. Tubing losses can be significant for small particles, so size-dependent and pressure-dependent corrections may be needed unless the lines can be kept very short (not more than a few m).", 
+  "title": "Water-Based Condensation Nucleus Counter"
+}

@@ -1,0 +1,35 @@
+{
+  "acronym": "AirMSPI", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }
+  ], 
+  "contact": {
+    "address": "California Institute of Technology MS 233-200 4800 Oak Grove Drive Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Dave_Diner", 
+    "name": "Dave Diner", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/AirMSPI", 
+  "instrument": [
+    "Camera", 
+    "Spectrometer"
+  ], 
+  "measurements": [
+    "Imagery"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/camera_0.jpg?itok=reaKLWJn", 
+  "summary": "The Multiangle SpectroPolarimetric Imager, or MSPI, is a candidate for the multi-directional, multi-wavelength, high-accuracy polarization imager identified by the National Research Council's Earth Sciences Decadal Survey as one component of the notional Aerosol-Cloud-Ecosystem, or ACE, mission. NASA would fly the ACE spacecraft late in the next decade to characterize the role of aerosols in climate forcing, especially their impact on precipitation and cloud formation. Forcing is the process by which natural mechanisms or human activities alter the global energy balance and \u201cforce\u201d the climate to change. The unresolved effects of aerosols on clouds are among the greatest uncertainties in predicting global climate change. MSPI is conceptually similar to JPL\u2019s Multiangle Imaging SpectroRadiometer, or MISR, carried on NASA\u2019s EOS Terra spacecraft, but with some important additions. The new camera design extends the spectral range to the ultraviolet and shortwave infrared (from 446\u2013866 nm to 355\u20132130 nm), increases the image swath (from 360 km to 680 km) to achieve more rapid global coverage (from 9 days to 4 days), and adds high-accuracy polarimetry in selected spectral bands. Like MISR, a suite of MSPI cameras would view Earth at a variety of angles, with an intrinsic pixel size of a few hundred meters, which for certain channels would be averaged up to about 1 kilometer.", 
+  "title": "Airborne Multi-angle SpectroPolarimeter Imager"
+}

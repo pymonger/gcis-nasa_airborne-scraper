@@ -1,0 +1,35 @@
+{
+  "acronym": "Echelle", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Peter_Jenniskens", 
+    "name": "Peter Jenniskens", 
+    "organization": "Search for ExtraTerrestrial Intelligence Institute", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Echelle", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "Brightness Temperature"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/Echelle.jpg?itok=dEHmq2xP", 
+  "summary": "The miniature Echelle spectrograph provides gigh-resolution Echelle spectroscopy, whereby the spectral range (360 - 900 nm) is folded into shorter segments and projected on a CCD camera for simultaneous exposure.This instrument consists of a 100 mm f4.5 UV Nikkor lens and Catalina Scientific Corp. \"Echellette\" Spectrograph with Visible Module or UV Module coupled to a Q-Imaging \"Intensified Retiga\" blue-enhanced image intensified CCD camera.Scientific objective: Spectral resolution of shock layer radiation. Resolve spectral lines of air plasma emissions at optical wavelengths for the measurement of excitation temperatures. Provide highest possible spectral resolution.", 
+  "title": "Miniature Echelle Spectrograph"
+}

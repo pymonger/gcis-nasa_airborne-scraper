@@ -1,0 +1,39 @@
+{
+  "acronym": "CLH", 
+  "aircraft": [
+    {
+      "name": "NSF G-V", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "1234 Innovation Drive Boulder , CO 80303 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Linnea_Avallone", 
+    "name": "Linnea Avallone", 
+    "organization": null, 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CLH", 
+  "instrument": [], 
+  "measurements": [
+    "H2O (total)"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/MACPEX43.jpg?itok=d6VFOJGq", 
+  "summary": "The University of Colorado closed-path tunable diode laser hygrometer (CLH) is based on the water vapor hygrometers designed by R. D. May (Maycomm, Inc.). CLH is coupled to a heated, forward-facing inlet that enhances particulate water by anisokinetic sampling. Ice water content (IWC) is derived from the measurement of enhanced total water, with knowledge of the instrument sampling characteristics, particle size distributions and ambient water vapor.In contrast to the open-path systems of similar heritage, the CLH, which was designed for operation in the troposphere on commercial aircraft, has a single-pass absorption cell (27.62 cm long). The light source is a room-temperature solid-state laser that puts out 3-5 mW of radiation at 1.37 mm (7306.752 cm-1).", 
+  "title": "Closed-path Laser Hygrometer"
+}

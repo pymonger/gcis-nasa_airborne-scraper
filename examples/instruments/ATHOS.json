@@ -1,0 +1,38 @@
+{
+  "acronym": "ATHOS", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "503 Walker Building University Park , PA 16802 United States", 
+    "href": "http://airbornescience.nasa.gov/person/William_H_Brune", 
+    "name": "William H. Brune", 
+    "organization": "Pennsylvania State University", 
+    "phone": "tel:tel:+1-814-865-3286", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/ATHOS", 
+  "instrument": [
+    "Fluorescence"
+  ], 
+  "measurements": [
+    "OH", 
+    "Napthalene", 
+    "HO2", 
+    "NO"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/ATHOS_inlet_01.jpg?itok=y015WN8I", 
+  "summary": "ATHOS uses laser-induced fluorescence (LIF) to measure OH and HO2 simultaneously. OH is both excited and detected with the A2\u03a3+ (v\u2019=0) \u2192 X2\u03c0 (v\u201d=0) transition near 308 nm. HO2 is reacted with reagent NO to form OH and is then detected with LIF. The laser is tuned on and off the OH wavelength to determine the fluorescence and background signals. ATHOS can detect OH and HO2 in clear air and light clouds from Earth's surface to the lower stratosphere. The ambient air is slowed from the aircraft speed of 240 m/s to 8-40 m/s in an aerodynamic nacelle. It is then pulled by a vacuum pump through a small inlet, up a sampling tube, and into two low-pressure detection cells - the first for OH and the second for HO2. Detection occurs in each cell at the intersection of the airflow, the laser beam, and the detector field-of-view.", 
+  "title": "Airborne Tropospheric Hydrogen Oxides Sensor"
+}

@@ -1,0 +1,36 @@
+{
+  "acronym": "DAWN", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "NASA Langley Research Center Mail Code 468 5 N. Dryden St. Hampton , VA 23681 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Michael_J_Kavaya", 
+    "name": "Michael J. Kavaya", 
+    "organization": "NASA Langley Research Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/DAWN", 
+  "instrument": [
+    "Lidar"
+  ], 
+  "measurements": [
+    "Wind", 
+    "Aerosol Backscattering"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/DAWN.jpg?itok=XP65S7MP", 
+  "summary": "DAWN (Doppler Aerosol WiNd lidar) is a pulsed laser, 2-micron, and solid-state. It pulses at 10 Hertz with 250 mJ pulses that are 200 ns long full width at half maximum (FWHM). Using the wedge scanner, five different azimuth angles are measured: 1) to end up with five equations for the three unknown components of wind vs. altitude, 2) to mitigate cloud obscurations, and 3) to measure the atmospheric variability.DAWN can provide vertical profiles of u, v, and w components of 3-D wind in the region below the aircraft. Various vertical and horizontal resolutions are possible. DAWN can also provide vertical profiles of line of sight (LOS) wind for the five (5) azimuth angles; vertical profiles of relative aerosol backscatter in the region below the aircraft, for the five (5) azimuth angles; vertical profiles of wind turbulence in the region below the aircraft, for the five (5) azimuth angles; and correlations of the data products vs. height.", 
+  "title": "Doppler Aerosol WiNd Lidar"
+}

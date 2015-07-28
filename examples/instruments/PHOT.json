@@ -1,0 +1,36 @@
+{
+  "acronym": "PHOT", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Dick_Spalding", 
+    "name": "Dick Spalding", 
+    "organization": "Sandia National Laboratories", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/PHOT", 
+  "instrument": [
+    "Photometer", 
+    "Radiometer"
+  ], 
+  "measurements": [
+    "Brightness Temperature"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/PHOT.jpg?itok=OFgLnk36", 
+  "summary": "The Sandia National Laboratory 2-channel radiometer uses two narrow-band (10 nm) filters in the red and near-IR at a sampling rate of many thousands per second. It measures the total radiative output of the SRC during entry in the 380-600 nm band and the 600-900 nm band and detect rapid fluctuations of light output from spacecraft rotation, instabilities in the shock layer, and ablation.This instrument consists of two photometers, each equipped with a filter of choice: here a low-pass and high-pass cut-off filter. Each photometer measures the sky over a large ~15 degree field of view, at about 5 - 35 degree elevation.", 
+  "title": "Sandia National Laboratory 2-channel Radiometer"
+}

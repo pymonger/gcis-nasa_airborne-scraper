@@ -1,0 +1,53 @@
+{
+  "acronym": "NAST-I", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }, 
+    {
+      "name": "Proteus", 
+      "organization": [
+        "Northrop Grumman", 
+        "Scaled Composites"
+      ], 
+      "summary": "BackgroundThe Proteus is a unique aircraft originally\u00a0conceived as a high-altitude, long-duration telecommunications relay platform for use over major cities.\u00a0 It was designed and built by Scaled Composites and\u00a0first flight was flown from Scaled's flight test and development facility in Mojave, California on 26 July, 1998. Since its maiden flight, it has demonstrated its ability to support a multitude of missions and has been deployed worldwide.Aircraft DescriptionThe aircraft features an unconventional tandem-wing, twin-boom configuration with two centrally mounted turbofan engines.\u00a0This configuration allows for Proteus (so named for the mythological Greek sea-god who could change his appearance at will) to be reconfigured for a variety of other missions, such as atmospheric research, reconnaissance/surveillance, and commercial imaging.\u00a0 The basic systems of the aircraft are derived from common general aviation components.\u00a0 This enabled the aircraft to demonstrate exceptional reliability and low operating costs when compared to other purpose built experimental aircraft.\u00a0 It also allows deployment to general aviation airports by a ground crew of two with minimal support equipment.The aircraft\u00a0employs\u00a0modular construction that enables payloads to be carried in a variety of locations.\u00a0 The main landing gear is widely set, allowing for large externally-mounted payloads to be carried beneath the fuselage.\u00a0 Payloads are commonly carried in pods attached near the center of gravity of the aircraft.\u00a0 This location allows the weight of the payloads to vary widely without an appreciable effect on the aircraft stability.\u00a0 In addition to the central mount, light payloads\u00a0can be attached to extensions of the tail booms, as well as hard points beneath the wings.The aircraft was designed to cruise at altitudes from 50,000 to more than 63,000 feet\u00a0and remain on station for more than 12 hours. While carrying a standard 2200lbs payload, the typical service ceiling\u00a0is 56,000ft\u00a0where the cockpit remains a shirt-sleeve comfortable, 10,000 feet.", 
+      "type": "Experimental High Altitude, Certified Experimental Research and Development", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Proteus"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "NASA Langley 5 N. Dryden St Hampton , VA 23681-2199 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Anna_Noe", 
+    "name": "Anna Noe", 
+    "organization": "NASA Langley Research Center", 
+    "phone": "tel:tel:+1-757-864-6466", 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/NAST-I", 
+  "instrument": [
+    "Interferometer"
+  ], 
+  "measurements": [
+    "Temperature"
+  ], 
+  "photo": null, 
+  "summary": "The NPOESS Airborne Sounding Testbed-Interferometer (NAST-I) is a high spectral resolution (0.25cm- 1) and high spatial resolution (0.13 km linear resolution per km of aircraft flight altitude, at nadir) scanning (2.3 km ground cross-track swath width per km of aircraft flight altitude) interferometer sounding system that was developed to be flown on high-altitude aircraft to provide experimental observations needed to finalize the specifications and to test proposed designs and data processing algorithms for the Cross-track Infrared Sounder (CrIS) to fly on the National Polar-orbiting Operational Environmental Satellite System (NPOESS). Because the NAST-I temperature and humidity soundings have an unprecedented spatial resolution, the data are being used to support a variety of atmospheric research programs. The NAST-I covers a spectral range from ~ 600-2900 cm-1 (3.5-16 microns) with 0.25 cm-1 spectral resolution, yielding more than 9000 spectral channels of radiance emission information. The NAST-I passive infrared (IR) Michelson interferometer is usually flown with the NAST passive microwave sounding instrument (NAST-M) to provide an all-weather sounding capability.", 
+  "title": "NPOESS Airborne Sounder Testbed - Interferometer"
+}

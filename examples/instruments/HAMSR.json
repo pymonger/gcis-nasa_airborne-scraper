@@ -1,0 +1,55 @@
+{
+  "acronym": "HAMSR", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }, 
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }
+  ], 
+  "contact": {
+    "address": "4800 Oak Grove Drive M/S 168-314 Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Shannon_Brown", 
+    "name": "Shannon Brown", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": null, 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/HAMSR_quicklook_CH01.jpg?itok=vAd4tUWx", 
+  "href": "http://airbornescience.nasa.gov/instrument/HAMSR", 
+  "instrument": [
+    "Sounder", 
+    "Microwave Radiometer"
+  ], 
+  "measurements": [
+    "Temperature", 
+    "H2O"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/Brown_ESTF2011.jpg?itok=sMDRsT9p", 
+  "summary": "The High Altitude Monolithic Microwave integrated Circuit (MMIC) Sounding Radiometer (HAMSR) is a microwave atmospheric sounder developed by JPL under the NASA Instrument Incubator Program. Operating with 25 spectral channels in 3 bands (50-60 Ghz, 118 Ghz, 183 Ghz), it provides measurements that can be used to infer the 3-D distribution of temperature, water vapor, and cloud liquid water in the atmosphere, even in the presence of clouds. The new UAV-HAMSR with 183GHz LNA receiver reduces noise to less than a 0.1K level improving observations of small-scale water vapor. HAMSR is mounted in payload zone 3 near the nose of the Global Hawk.HAMSR was designed and built at the Jet Propulsion Laboratory under the NASA Instrument Incubator Program and uses advanced technology to achieve excellent performance in a small package. It was first deployed in the field in the 2001 Fourth Convection and Moisture Experiment (CAMEX-4) - a hurricane field campaign organized jointly by NASA and the Hurricane Research Division (HRD) of NOAA in Florida. HAMSR also participated in the Tropical Cloud Systems and Processes (TCSP) hurricane field campaign in Costa Rica in 2005. In both campaigns HAMSR flew as a payload on the NASA high-altitude ER-2 aircraft. It was also one of the payloads in the 2006 NASA African Monsoon Multidisciplinary Activities (NAMMA) field campaign in Cape Verde - this time using the NASA DC-8. HAMSR provides observations similar to those obtained with microwave sounders currently operating on NASA, NOAA and ESA spacecraft, and this offers an opportunity for valuable comparative analyses.", 
+  "title": "High Altitude Monolithic Microwave integrated Circuit (MMIC) Sounding Radiometer"
+}

@@ -1,0 +1,60 @@
+{
+  "acronym": "CPI", 
+  "aircraft": [
+    {
+      "name": "Citation", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }, 
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }
+  ], 
+  "contact": {
+    "address": "SPEC Incorporated 3022 Sterling Circle Suite 200 Boulder , CO 80301 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Paul_Lawson", 
+    "name": "Paul Lawson", 
+    "organization": "Stratton Park Engineering Company, Inc.", 
+    "phone": null, 
+    "role": "PI", 
+    "website": "http://www.specinc.com"
+  }, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/CPI%20data.jpg?itok=yjGiqKZd", 
+  "href": "http://airbornescience.nasa.gov/instrument/CPI", 
+  "instrument": [
+    "Particle imager"
+  ], 
+  "measurements": [
+    "Particle size distribution"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/CPI2.jpg?itok=Z3XFqz-x", 
+  "summary": "The CPI records high-resolution (2.3 micron pixel size) digital images of particles that pass through the sample volume at speeds up to 200 m/s. CCD camera flashes up to 75 frames per second (fps), potentially imaging more than 25 particles per frame. Camera upgrades capable of bringing frame rate to nearly 500 fps.Real time image processing crops particle images from the full frame, eliminating blank space and compressing data by >1000:1CPI is designed for ummanned use, with AI parameters to optimize performance without supervision.", 
+  "title": "Cloud Particle Imager"
+}

@@ -1,0 +1,35 @@
+{
+  "acronym": "MACDONNA", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Hampton , VA 23681 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Stephanie_A_Vay", 
+    "name": "Stephanie A. Vay", 
+    "organization": "NASA Langley Research Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/MACDONNA", 
+  "instrument": [
+    "Gas chromatography"
+  ], 
+  "measurements": [
+    "CO2"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/FASTOZ_PDS_MACDONNA_inlet.jpg?itok=QgeLOBQY", 
+  "summary": "A modified LI-COR model 6252 infrared gas analyzer forms the basis of a CO2 sampling system. The LI-COR is small (13 x 24 x 34 cm) and composed of dual 12 cm3 volume sample/reference cells; a feedback stabilized infrared source; 500 Hz chopper; thermoelectrically-cooled solid state PbSe detector; and a narrow band (150 nm) interference filter centered on the 4.26 \u03bcm CO2 absorption band. Using synchronous signal detection techniques, it operates by sensing the difference in light absorption between the continuously flowing sample and reference gases occupying each side of the dual absorption cell. Thus, by selecting a reference gas of approximately the same concentration as background air (~ 378 ppmv), very minute fluctuations in atmospheric concentration can be quantified with high precision (\u2264 0.07 ppmv). The system is operated at constant pressure (250 torr) and has a 0.1 second electronic time response.During ambient sampling, air is continuously drawn through a Rosemount inlet probe, a permeable membrane dryer to remove H2O(v), the LI-COR, and then exchanged through a diaphragm pump that vents overboard. In-flight calibrations are performed every 15 minutes using standards traceable to the primary standards maintained by the WMO Central CO2 Laboratory. By interpolating between these calibrations, slow drifts in instrument response are effectively suppressed, yielding high precision values. Temperature control of the instrument minimizes thermal drift thus maximizing ambient sampling time by decreasing calibration frequency. The CO2 measurement accuracy is closely tied to the accuracy of the standards obtained from NOAA/CMDL, Boulder, CO prior to the mission.", 
+  "title": "Measurements of Atmospheric Carbon Dioxide Over Northwestern North America"
+}

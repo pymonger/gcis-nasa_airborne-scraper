@@ -1,0 +1,36 @@
+{
+  "acronym": "ALIAS-II", 
+  "aircraft": [
+    {
+      "name": "Balloon", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": "Mail Stop 183-401 4800 Oak Grove Drive Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Lance_Christensen", 
+    "name": "Lance Christensen", 
+    "organization": null, 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/ALIAS-II", 
+  "instrument": [
+    "Spectrometer"
+  ], 
+  "measurements": [
+    "N2O", 
+    "CH4", 
+    "CO", 
+    "HCl", 
+    "NO2"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/alias2b2.gif?itok=f8xSuJQy", 
+  "summary": "The Airborne Laser Infrared Absorption Spectrometer (ALIAS-II) is a very high resolution scanning tunable diode laser spectrometer which makes direct, simultaneous measurements of selectable combinations of HCl, NO2, CO, CO2, CH4, and N2O at sub-part-per-billion levels over a 3-30 second integration time. The measurement technique is based upon using tunable lead-salt and/or quantum cascade lasers operating from 3.4 to 8 microns wavelength scanning over absorption lines at 10 Hz recording second harmonic spectra. The instrument features an open-cradle multipass Herriott absorption cell with 15.24-cm diameter spherical zerodur mirrors coated with gold on chrome. The separation between the mirrors is adjustable allowing for a relatively small cell (0.75-m to 1.5-m) to contain an optical path length up to 120-m, depending on the spacing of the mirrors. Lasers and detectors are contained in a lightweight aluminum liquid nitrogen Dewar which can achieve a 28-hour hold time with only a 2 liter charge of liquid nitrogen. The instrument features custom laser current drives, signal chains, InSb detectors and preamps, 16-bit signal averager, analog signal conditioner, and digital I/O which are controlled by an onboard Pentium processor. Data is written to a ruggedized 2-Gb hard disk every 30 seconds and simultaneously transmitted via telemetry to ground station computers which provide backup storage of the data. The instrument weighs 36 kg and requires <56 watts for operation. Additional power up to 250 watts is available for structural heaters and current draw varies with atmospheric conditions.", 
+  "title": "Airborne 2-Channel Laser Infrared Absorption Spectrometer"
+}

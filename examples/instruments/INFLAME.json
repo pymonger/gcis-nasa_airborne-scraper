@@ -1,0 +1,34 @@
+{
+  "acronym": "INFLAME", 
+  "aircraft": [
+    {
+      "name": "Learjet 35", 
+      "organization": [
+        "Phoenix Air"
+      ], 
+      "summary": null, 
+      "type": "Conventional aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Learjet_35"
+    }
+  ], 
+  "contact": {
+    "address": "Climate Science Branch Hampton , VA United States", 
+    "href": "http://airbornescience.nasa.gov/person/Martin_Mlynczak", 
+    "name": "Martin Mlynczak", 
+    "organization": "NASA Langley Research Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/INFLAME", 
+  "instrument": [
+    "Interferometer"
+  ], 
+  "measurements": [
+    "Solar flux"
+  ], 
+  "photo": null, 
+  "summary": "INFLAME provides a direct  measurement of the net flux, and requires high stability with much less stringent requirements on absolute accuracy, thereby removing the major impediment of existing measurements. The INFLAME instruments, deployed on small aircraft, will provide a direct measurement of the net flux radiative, flux divergences, and heating rates in clear sky, in the presence of aerosols, and in the presence of cloud particles.The INFLAME instrument measures the net flux by using a low-resolution Fourier transform spectrometer (FTS) to observe the upward and downward flux simultaneously using the two inputs of the same instrument. The two complementary outputs of the FTS can be transformed to produce spectra proportional to the difference between the two inputs.", 
+  "title": "In-situ Net Flux within the Atmosphere of the Earth"
+}

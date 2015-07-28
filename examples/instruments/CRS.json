@@ -1,0 +1,44 @@
+{
+  "acronym": "CRS", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }, 
+    {
+      "name": "WB-57", 
+      "organization": [
+        "NASA Johnson Space Center"
+      ], 
+      "summary": "The NASA Johnson Space Center (JSC) in Houston, Texas is the home of the NASA WB-57 High Altitude Research Program. Three fully operational WB-57 aircraft are based near JSC at Ellington Field. The aircraft have been flying research missions since the early 1970's, and continue to be an asset to the scientific community with professional, reliable, customer-oriented service designed to meet all scientific objectives.The WB-57 is a mid-wing, long-range aircraft capable of operation for extended periods of time from sea level to altitudes in excess of 60,000 feet. Two crew members are positioned at separate tandem stations in the forward section of the fuselage. The pilot station contains all the essential equipment for flying the aircraft while the sensor equipment operator (SEO) station contains both navigational equipment and controls for the operation of the payloads that are located throughout the aircraft. The WB-57 can fly for approximately 6.5 hours, has a range of approximately 2500 miles, and can carry up to 8,800 lbs of payload.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/WB-57"
+    }
+  ], 
+  "contact": {
+    "address": "Mesoscale Atmospheric Processes Laboratory Code 612, Building 33, Rm A405 Greenbelt , MD 20771 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Gerald_Heymsfield", 
+    "name": "Gerald Heymsfield", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": "tel:tel:+1-301-614-6369", 
+    "role": "PI", 
+    "website": "http://har.gsfc.nasa.gov"
+  }, 
+  "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/crs_lg.jpg?itok=ThDKj3gt", 
+  "href": "http://airbornescience.nasa.gov/instrument/CRS", 
+  "instrument": [
+    "Radar"
+  ], 
+  "measurements": [
+    "Radar Reflectivity", 
+    "Doppler Velocity"
+  ], 
+  "photo": null, 
+  "summary": "Clouds are a key element in the global hydrological cycle, and they have a significant role in the Earth\u2019s energy budget through its influence on radiation budgets. Climate model simulations have demonstrated the importance of clouds in moderating and forcing the global energy budget. Despite the crucial role of clouds in climate and the breadth of our current knowledge, there are still many unanswered details. An improved understanding of the radiative impact of clouds on the climate system requires a comprehensive view of clouds that includes their physical dimensions, vertical and horizontal spatial distribution, detailed microphysical properties, and the dynamical processes producing them. However, the lack of fine-scale cloud data is apparent in current climate model simulations.The Cloud Radar System (CRS) is a fully coherent, polarimeteric Doppler radar that is capable of detecting clouds and precipitation from the surface up to the aircraft altitude in the lower stratosphere. The radar is especially well suited for cirrus cloud studies because of its high sensitivity and fine spatial resolution.", 
+  "title": "Cloud Radar System"
+}

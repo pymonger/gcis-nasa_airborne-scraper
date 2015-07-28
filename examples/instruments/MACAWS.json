@@ -1,0 +1,36 @@
+{
+  "acronym": "MACAWS", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Jeffry_Rothermel", 
+    "name": "Jeffry Rothermel", 
+    "organization": "NASA Marshall Space Flight Center", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/MACAWS", 
+  "instrument": [
+    "Lidar"
+  ], 
+  "measurements": [
+    "Wind", 
+    "Aerosol Backscattering"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/macaws.gif?itok=MyWfX-Q3", 
+  "summary": "MACAWS is an airborne side-scanning Doppler laser radar (lidar) which measures two dimensional wind fields, vertical wind profiles, and aerosol backscatter from clear air and clouds. Range varies from 10-30 km depending on aerosol abundance and cloud attenuation. Upon exiting the aircraft, the lidar beam is completely eye-safe. MACAWS is developed and operated cooperatively by the atmospheric lidar remote sensing groups of NASA Marshall Space Flight Center, NOAA Environmental Technology Laboratory, and Jet Propulsion Laboratory.MACAWS consists of: a frequency-stable pulsed transverse-excited atmospheric pressure carbon dioxide laser emitting 0.5-1.0 J per pulse at 10.6 micron wavelength at a nominal pulse repetition frequency (PRF) of ~20 Hz; a coherent receiver employing a cryogenically-cooled HgCdTe detector; a 0.3 m off-axis paraboloidal telescope shared by the transmitter and receiver in a monostatic configuration; a ruggedized optical table and three-point support structure; a scanner using two counter-rotating germanium wedges to refract the transmitted beam in the desired direction; an inertial navigation system (INS) for frequent measurements of aircraft attitude and speed; data processing, display, and storage devices; and an Operations Control System (OCS) to coordinate all system functions.", 
+  "title": "Multicenter Airborne Coherent Atmospheric Wind Sensor"
+}

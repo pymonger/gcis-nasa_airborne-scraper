@@ -1,0 +1,79 @@
+{
+  "acronym": "LVIS", 
+  "aircraft": [
+    {
+      "name": "B200 - LARC", 
+      "organization": [
+        "NASA Langley Research Center"
+      ], 
+      "summary": "The NASA Langley Beechcraft B200 King Air (NASA 529) is an all-metal, twin-turboprop research aircraft. NASA Langley acquired this aircraft in 1996 for program support. The aircraft has been modified with two nadir-viewing ports: 29.5 x 29.5-in. in the forward section of the passenger cabin and 26.75 x 22.5 in. in the aft section. These downward-looking portals allow the use of a wide variety of optical, laser, or R-F based devices that might require a nadir look angle out of the aircraft. Research-supporting subsystems, such as electrical power distribution, TCAS, GPS and satellite phone communications also have been installed. The crown of the aircraft has been structurally modified to accommodate atmospheric sensors, such as an isokinetic aerosol inlet. Finally, a pylon has been mounted beneath each wingtip. These pylons are suitable for carrying aerosol probes with weights of up to 50 lbs. In its current configuration, the aircraft serves as the primary flight platform for a suite of aerosol and cloud remote-sensing instruments, including the NASA Langley High Spectral Resolution LIDAR (HSRL). The aircraft is fully IFR capable.The research power system contains three 50-A AC inverters which supply up to 4200 W of research power. An Iridium satellite phone system has been installed to facilitate both remote voice communications as well as data modem transfer.This aircraft nominally flies mission profiles up to altitudes of 28,000 ft, but with prior coordination, is capable of conducting operations in the National Airspace System up to the aircraft's service ceiling of 35,000 ft. Typically, the aircraft can carry a 1000-lbs payload, three crewmembers (two flight crew and one system operator) and remain airborne for four hours covering approximately 800 n.mi. The aircraft is limited to a maximum certified takeoff weight of 13,500 lbs. The aircraft has successfully operated in both domestic and international deployments. In summary, the NASA Langley B200 aircraft and its flight team provide an efficient and effective operational platform for small to medium-sized science payloads, especially those requiring or desiring unique integration, dedicated flight profiles, coordinated flights with other platforms, or flight patterns in congested airspace.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/B200_-_LARC"
+    }, 
+    {
+      "name": "C-130H Hercules", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates two NASA C-130H Hercules research aircraft to support airborne scientific research activities. The C-130H is used to perform scientific research, provide logistics support on an as-needed basis to other airborne science missions, and can be used as a technology test bed for new airborne and satellite instrumentation. These aircraft are also available to support range surveillance and recovery operations as needed. The C-130H is a self-sufficient aircraft that can operate from short field civilian and military airports to remote areas of the world in support of scientific studies and other operations.The C-130H is a four-engine turboprop aircraft designed for maximum payload capacity. The C-130H, NASA 439, has been extensively modified to support airborne science related activities. The aircraft has two large nadir ports. One nadir port is approximately 50 inches in diameter (pressurized) and the other nadir port is approximately 24 inches in diameter (unpressurized). A large removable side fuselage plug exists on the port side of the aircraft just forward of the wings. An experimental power system is installed in the aircraft as well as a variety of other small fuselage ports. The aircraft also is capable of carrying 5 cargo pallets that can be utilized to carry cargo or modified to support instrument racks and seats. The large rear cargo door allows for easy installation of large instruments and payloads. The aircraft is equipment with external fuel tanks to increase range and duration.The C-130H, NASA 436, is currently under modification to support future airborne science research needs.The performance numbers presented below are based on a 20,000lb payload. Heaiver payload may reduce aircraft range and duration.The Aircraft Office is committed to providing safe, reliable, and cost effective platforms for airborne research and other flight activities.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/C-130H_Hercules"
+    }, 
+    {
+      "name": "Cessna 402B", 
+      "organization": [
+        "University Technical Services, Inc."
+      ], 
+      "summary": "University Technical Services, Inc. operates a twin-engine Cessna 402B aircraft for low altitude sensor platforms and scientific equipment. One area involves enhanced flight vision system (EFVS) sensor and synthetic vision system (SVS) evaluation. The aircraft has mulitiple nose coses for housing various windows for IR, millimeter wave, and UV forward-looking sensors, whose images are displayed on a head-up display (HUD) or head-down display, with simultaneous recording of three inputs (sensor/SVS, HUD, CCD normal vision camera). Data recording of aircraft attitude and position information is provided by the mission computer. The Cessna 402B also supports evaluation of other scientific equipment platforms such as advanced inertial management units (IMU). Air-ground video and data link communication capabilities are also supported on this aircraft.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Cessna_402B"
+    }, 
+    {
+      "name": "Citation", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "P-3 Orion", 
+      "organization": [
+        "NASA GSFC Wallops Flight Facility"
+      ], 
+      "summary": "The NASA Goddard Space Flight Center\u2019s (GSFC) Wallops Flight Facility (WFF) Aircraft Office operates the NASA Airborne Science Program's P-3 Orion research aircraft to support airborne science research.  Wallops Flight Facility has operated the P-3 since 1991 in support of a variety of scientific studies including ecology, meteorology, atmospheric chemistry, cryospheric research, oceanography, soil science, biology, and satellite calibration/validation. The P-3 is also used as a technology test bed for new airborne and satellite instrumentation. The P-3 is a self-sufficient global reaching aircraft that can operate from civilian and military airports to remote areas of the world in support of scientific studies.The P-3 is a four-engine turboprop aircraft designed for endurance and range and is capable of long duration flights. The P-3 has been extensively modified to support airborne science related activities. Aircraft features include zenith ports, three nadir ports (aft of the wings), and eight P-3 and DC-8 style windows to mount experiments, a tail cone, nose radome and ten mounting locations on the wings. Most of the fuselage ports are contained within the pressurized cabin environment. The unpressurized bomb bay can be converted into experimenter ports via a custom fairing. This fairing creates two large nadir ports and several oblique ports for installation of large sensors and antennas.A project data system is located on the aircraft and provides aircraft data and video throughout the cabin. This system is also connected to two satellite constellations and provides uplink/downlink capability, internet access, flight tracking, and instant messaging between other aircraft and ground assets. Several sensors are connected to the project data system to provide meteorological and aircraft positional data to experimenters. An engineering data system is also integrated into the aircraft along with an air data boom to gather pertinent flight test data to determine effects of installations on the aircraft\u2019s flight envelope.The Aircraft Office is committed to providing safe, reliable, and cost-effective platforms for airborne research.", 
+      "type": "Conventional Aircraft ", 
+      "url": "http://airbornescience.nasa.gov/aircraft/P-3_Orion"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Amy_Misakonis", 
+    "name": "Amy Misakonis", 
+    "organization": "Sigma Space", 
+    "phone": null, 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Laser_Vegetation_Imaging_Sensor", 
+  "instrument": [
+    "Lidar"
+  ], 
+  "measurements": [
+    "Vegetation", 
+    "Topography"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/sqDhEGK.jpg?itok=PKeq18C1", 
+  "summary": "The Laser Vegetation Imaging Sensor (LVIS) is an airborne, scanning laser altimeter, designed and developed at NASA's Goddard Space Flight Center (GSFC). LVIS operates at altitudes up to 10 km above ground, and is capable of producing a data swath up to 1000 m wide nominally with 25-m wide footprints. The entire time history of the outgoing and return pulses is digitised, allowing unambiguous determination of range and return pulse structure. Combined with aircraft position and attitude knowledge, this instrument produces topographic maps with dm accuracy and vertical height and structure measurements of vegetation. The laser transmitter is a diode-pumped Nd:YAG oscillator producing 1064 nm, 10 ns, 5 mJ pulses at repetition rates up to 500 Hz. LVIS has recently demonstrated its ability to determine topography (including sub-canopy) and vegetation height and structure on flight missions to various forested regions in the US and Central America. The LVIS system is the airborne simulator for the Vegetation Canopy Lidar (VCL) mission (a NASA Earth remote sensing satellite due for launch in year 2000), providing simulated data sets and a platform for instrument proof-of-concept studies. The topography maps and return waveforms produced by LVIS provide Earth scientists with a unique data set allowing studies of topography, hydrology, and vegetation with unmatched accuracy and coverage.", 
+  "title": "Laser Vegetation Imaging Sensor"
+}

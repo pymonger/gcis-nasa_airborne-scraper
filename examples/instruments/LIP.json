@@ -1,0 +1,53 @@
+{
+  "acronym": "LIP", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }, 
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }, 
+    {
+      "name": "Global Hawk", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": null, 
+      "type": "UAS", 
+      "url": "http://airbornescience.nasa.gov/aircraft/Global_Hawk"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Monte_Bateman", 
+    "name": "Monte Bateman", 
+    "organization": "Universities Space Research Association", 
+    "phone": null, 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/LIP", 
+  "instrument": [], 
+  "measurements": [
+    "Electric field", 
+    "Lightning", 
+    "Air Conductivity"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/474689main_LIP_med.jpg?itok=DOspJxvC", 
+  "summary": "The LIP (Lightning Instrument Package) measures lightning, electric fields, electric field changes, air conductivity. LIP provides real time electric field data for science and operations support.The LIP is comprised of a set of optical and electrical sensors with a wide range of temporal, spatial, and spectral resolution to observe lightning and investigate electrical environments within and above thunderstorms. The instruments provide measurements of the air conductivity and vertical electric field above thunderstorms and provide estimates of the storm electric currents. In addition, LIP will detect total storm lightning and differentiate between intracloud and cloud-to-ground discharges. This data is used in studies of lightning/storm structure and lightning precipitation relationships.", 
+  "title": "Lightning Instrument Project"
+}

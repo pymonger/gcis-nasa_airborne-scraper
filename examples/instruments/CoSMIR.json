@@ -1,0 +1,34 @@
+{
+  "acronym": "CoSMIR", 
+  "aircraft": [
+    {
+      "name": "ER-2", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center"
+      ], 
+      "summary": "NASA operates two ER-2 aircraft as readily deployable high altitude sensor platforms to collect remote sensing and in situ data on earth resources, atmospheric chemistry and dynamics, and oceanic processes. The aircraft also are used for electronic sensor research and development, satellite calibration and satellite data validation. Operating at 70,000 feet (21.3 km) the ER-2 acquires data above ninety-five percent of the earth\u2019s atmosphere. The aircraft also yields an effective horizon of 300 miles (480 km) or greater at altitudes of 70,000 feet. Consequently, ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectral and atmospheric characteristics of data collected by earth observing sensors aboard orbiting satellites.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/ER-2"
+    }
+  ], 
+  "contact": {
+    "address": "8800 Greenbelt Road Greenbelt , MD 20771 United States", 
+    "href": "http://airbornescience.nasa.gov/person/James_R_Wang", 
+    "name": "James R. Wang", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": "tel:tel:+1-301-614-5655", 
+    "role": "Mgr", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CoSMIR", 
+  "instrument": [
+    "Radiometer"
+  ], 
+  "measurements": [
+    "Brightness Temperature"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/clip_image002.png?itok=xma_hfw7", 
+  "summary": "CoSMIR is an airborne, 9-channel total power radiometer that was originally developed for the calibration/validation of the Special Sensor Microwave/Imager/ Sounder (SSMIS), a new-generation conical scanning radiometer for the DMSP (Defense Meteorological Satellite Project) F-series satellites.  When first completed in 2003, the system has four receivers near 50, 91, 150 and 183 GHz, that measure horizontally polarized radiation at the frequencies of 50.3, 52.8, 53.6, 150, 183.3\u00b11, 183.3\u00b13, and 183.3\u00b16.6 GHz, and dual polarized radiation at 91.665 GHz from on board the high-flying NASA ER-2 aircraft.  All receivers and radiometer electronics are housed in a small cylindrical scan head (21.5 cm in diameter and 28 cm in length) that is rotated by a two-axis gimbaled mechanism capable of generating a wide variety of scan profiles. Two calibration targets, one maintained at ambient (cold) temperature and another heated to a hot temperature of about 328 K, are closely coupled to the scan head and rotate with it about the azimuth axis.  Radiometric signals from each channel are sampled at 0.01 sec intervals.  These signals and housekeeping data are fed to the main computer in an external electronics box.CoSMIR has been flown only for calibration/validation of the SSMIS during years 2004-2005 off the coastal areas of California. Currently, it is being modified to play the role as an airborne high-frequency simulator for the GMI, which requires changes in both frequency and polarization for some channels.  After modification, the 9 channels will be at the frequencies of 50.3, 52.6, 89 (H & V), 165.5 (H & V), 183.3\u00b11, 183.3\u00b13, and 183.3\u00b17 GHz.  All channels besides 89 and 165.5 GHz will be horizontally polarized.  The modified CoSMIR will fly in a GPM\u2013related field campaign in Oklahoma during April-May 2011.", 
+  "title": "Conical Scanning Millimeter-wave Imaging Radiometer"
+}

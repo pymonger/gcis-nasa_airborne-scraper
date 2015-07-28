@@ -1,0 +1,31 @@
+{
+  "acronym": "AESOP", 
+  "aircraft": [
+    {
+      "name": "Twin Otter", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }
+  ], 
+  "contact": {
+    "address": "Mail Stop 245-4 Moffett Field , CA 94035 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Anthony_Strawa", 
+    "name": "Anthony Strawa", 
+    "organization": "NASA Ames Research Center", 
+    "phone": "tel:tel:+1-650-604-3437", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/AESOP", 
+  "instrument": [], 
+  "measurements": [
+    "Particle Extinction", 
+    "Single Scattering Albedo"
+  ], 
+  "photo": null, 
+  "summary": "The Ames' Extinction Scattering Optical Property (AESOP) instrument measures aerosol extinction coefficient using cavity ring-down technology and scattering coefficient using reciprocal nephelometry. Measurements are made at two wavelengths (675 nm and 405 nm) with sufficient accuracy to obtain aerosol absorption coefficient, single scattering albedo, and the three \u00c5ngstr\u00f6m exponents.", 
+  "title": "Ames Extinction Scattering Optical Property Instrument"
+}

@@ -1,0 +1,35 @@
+{
+  "acronym": "AIRSAR", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "4800 Oak Grove Drive MS 300-235 Pasadena , CA 91109 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Yunling_Lou", 
+    "name": "Yunling Lou", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": "tel:tel:+1-818-354-2647", 
+    "role": "PI", 
+    "website": "http://uavsar.jpl.nasa.gov/"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/AIRSAR", 
+  "instrument": [
+    "Radar"
+  ], 
+  "measurements": [
+    "Radar backscatter"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/antenna_closeup.jpg?itok=SyZW6Rri", 
+  "summary": "The Airborne Synthetic Aperture Radar (AIRSAR) was an all-weather imaging tool able to penetrate through clouds and collect data at night. The longer wavelengths could also penetrate into the forest canopy and in extremely dry areas, through thin sand cover and dry snow pack. AIRSAR was designed and built by the Jet Propulsion Laboratory (JPL) which also manages the AIRSAR project. AIRSAR served as a NASA radar technology testbed for demonstrating new radar technology and acquiring data for the development of radar processing  techniques and applications.  As part of NASA\u2019s Earth Science Enterprise, AIRSAR first flew in 1988, and flew its last mission in 2004.", 
+  "title": "Airborne Synthetic Aperture Radar"
+}

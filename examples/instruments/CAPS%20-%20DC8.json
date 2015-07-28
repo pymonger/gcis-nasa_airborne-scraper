@@ -1,0 +1,37 @@
+{
+  "acronym": "CAPS - DC8", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "P.O. Box 3000 Boulder , CO 80307 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Andrew_Heymsfield", 
+    "name": "Andrew Heymsfield", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": "tel:tel:+1-303-497-8943", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/CAPS%20-%20DC8", 
+  "instrument": [
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "Aerosol", 
+    "Particle size distribution", 
+    "Cloud Liquid Water Content"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/CAPS%20BAS.jpg?itok=8EJuOaaw", 
+  "summary": "This multipurpose particle spectrometer includes three Droplet Measurement Technologies instruments plus temperature and relative humidity sensors that are packaged into a single, integrated measurement system. The CAPS provides the following data:- Aerosol particle and cloud hydrometeor size distributions from 0.51 to 50 \u00b5m- Precipitation size distributions from 25 \u00b5m to 1550 \u00b5m, or 15-930 um with optional 15-micron resolution- Particle optical properties (refractive index)- Particle shape assessments (discrimination between water and ice for probes with depolarization feature)- Liquid water content from 0.01 to 3 g/m3- Aircraft velocity- Atmospheric temperature and pressureThis instrument replaces the older PMS/PMI FSSP-100, FSSP-300, 2D-C, 2D-P and KLWC and can be used in many applications, including weather modification, aircraft icing, hurricane and storm research, and agricultural and industrial spray characterization.", 
+  "title": "Cloud, Aerosol, and Precipitation Spectrometer"
+}

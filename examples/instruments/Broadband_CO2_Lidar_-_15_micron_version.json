@@ -1,0 +1,35 @@
+{
+  "acronym": "", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Goddard Spece Flight Center Greenbelt , MD 20771 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Nader_Abuhassan", 
+    "name": "Nader Abuhassan", 
+    "organization": "NASA Goddard Space Flight Center", 
+    "phone": "tel:tel:+1-301-614-6003", 
+    "role": "Co-I", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Broadband_CO2_Lidar_-_15_micron_version", 
+  "instrument": [
+    "Lidar"
+  ], 
+  "measurements": [
+    "CO2"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/Heaps_ESTF2011.jpg?itok=klN6YlHB", 
+  "summary": "The Broadband CO2 lidar instrument operates on the principle of differential absorption. This means that the instrument examines the transmission of light through the atmosphere at two or more different wavelengths that are absorbed differently by the species one wishes to measure. There are then two principal elements involved in the measurement\u2014the source and the detector. Passive systems use natural processes such as sunlight or atmospheric emission to generate a number of different wavelengths which are separated for analysis by the detector. Most laser based systems (eg. DIAL lidars) use two or more different laser sources to provide different wavelengths. These systems then might use the same detector for the multiple wavelengths using time separation or modulation to differentiate the signals coming from the different lasers.This system, however, uses as a detector that can differentiate wavelengths just as conventional passive sensors. The detector was originally developed as the Fabry-Perot passive sensor measuring CO2 using reflected sunlight. Our new approach is made possible by the emergence of a new type of source\u2014the superluminescent light emitting diode (SLED). The SLED has the same high brightness and collimation characteristics as a conventional laser but it emits light over a broader range of wavelengths than conventional lasers. This permits a differential absorption measurement employing a single source with wavelength differentiation in the detector.", 
+  "title": "Broadband CO2 Lidar - 1.5 micron version"
+}

@@ -1,0 +1,72 @@
+{
+  "acronym": "MkIV", 
+  "aircraft": [
+    {
+      "name": "Balloon", 
+      "organization": [], 
+      "summary": null, 
+      "type": null, 
+      "url": null
+    }, 
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "California Institute of Technology Pasadena , CA United States", 
+    "href": "http://airbornescience.nasa.gov/person/Geoffrey_Toon", 
+    "name": "Geoffrey Toon", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/MkIV", 
+  "instrument": [
+    "Interferometer"
+  ], 
+  "measurements": [
+    "H2O", 
+    "O3", 
+    "N2O", 
+    "CO", 
+    "CH4", 
+    "NO", 
+    "NO2", 
+    "HNO3", 
+    "HNO4", 
+    "N2O5", 
+    "H2O2", 
+    "ClONO2", 
+    "HOCl", 
+    "HCl", 
+    "HF", 
+    "COF2", 
+    "CF4", 
+    "SF6", 
+    "CF2ClCFCl2", 
+    "CHF2Cl", 
+    "CF2Cl2", 
+    "CFCl3", 
+    "CCl4", 
+    "CH3Cl", 
+    "C2H2", 
+    "C2H6", 
+    "OCS", 
+    "HCN", 
+    "N2", 
+    "O2", 
+    "CO2"
+  ], 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/MkIV_Balloon_Team.JPG?itok=qKOwxLCY", 
+  "summary": "The MkIV interferometer operates in solar absorption mode, meaning that direct sunlight is spectrally analyzed and the amount of various gases at different heights in the Earth's atmosphere is derived from the shapes and depths of their absorption lines. The optical design of the MkIV interferometer is based largely on that of the ATMOS instrument, which has flown four times on the Space Shuttle. The first three mirrors in the optical path comprise the suntracker. Two of these mirrors are servo-controlled in order to compensate for any angular motion of the observation platform. The subsequent wedged KBr plates, flats, and cube-corner retro-reflectors comprise a double-passed Michelson interferometer, whose function is to impart a wavelength-dependent modulation to the solar beam. This is achieved by sliding one of the retro-reflectors at a uniform velocity so that the recombining beams interfere with each other. A paraboloid then focusses the solar beam onto infrared detectors, which measure the interferometrically modulated solar signal. Finally, Fourier transformation of the recorded detector outputs yields the solar spectrum. An important advantage of the MkIV Interferometer is that by employing a dichroic to feed two detectors in parallel, a HgCdTe photoconductor for the low frequencies (650-1850 cm-1) and a InSb photodiode for the high frequencies (1850-5650 cm-1), the entire mid-infrared region can be observed simultaneously with good linearity and signal-to-noise ratio. In this region over 30 different gases have identifiable spectral signatures including H2O, O3, N2O, CO, CH4, NO, NO2, HNO3, HNO4, N2O5, H2O2, ClNO3, HOCl, HCl, HF, COF2, CF4, SF6, CF2ClCFCl2, CHF2Cl, CF2Cl2, CFCl3, CCl4, CH3Cl, C2H2, C2H6, OCS, HCN, N2, O2, CO2 and many isotopic variants. The last three named gases, having well known atmospheric abundances, are important in establishing the observation geometry of each spectrum, which otherwise can be a major source of uncertainty. Similarly, from analysis of T-sensitive CO2 lines, the temperature profile can be accurately determined. The simultaneity of the observations of all these gases greatly simplifies the interpretation of the results, which are used for testing computer models of atmospheric transport and chemistry, validation of satellite data, and trend determination.Although the MkIV can measure gas column abundances at any time during the day, the highest sensitivity to atmospheric trace gases is obtained by observing sunrise or sunset from a balloon. The very long (~ 400 km) atmospheric paths traversed by incoming rays in this observation geometry also make this so-called solar occultation technique insensitive to local contamination.", 
+  "title": "JPL Mark IV Balloon Interferometer"
+}
