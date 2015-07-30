@@ -52,11 +52,11 @@
     "name": "John Michael Reeves", 
     "organization": "University of Denver", 
     "phone": "tel:tel:+1-303-871-3002", 
-    "role": "PI", 
+    "role": "Prev PI", 
     "website": null
   }, 
   "data_image": null, 
-  "href": "http://airbornescience.nasa.gov/instrument/NMASS", 
+  "href": "http://airbornescience.nasa.gov/instrument/Nuclei-Mode_Aerosol_Size_Spectrometer", 
   "instrument": [
     "CN counter"
   ], 

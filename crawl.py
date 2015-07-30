@@ -1,6 +1,9 @@
 #!/usr/bin/env python
-import os, sys, re, json, requests, argparse
+import os, sys, re, json, requests, requests_cache, argparse
 from bs4 import BeautifulSoup
+
+
+requests_cache.install_cache('airbornescience-import')
 
 
 BASE_URL = "http://airbornescience.nasa.gov"
@@ -10,7 +13,23 @@ COUNT_RE = re.compile(r'Currently\s+displayed:\s*instruments\s+1\s+-\s+(\d+)\s+o
 ROLE_RE = re.compile(r'\((.*?)\)')
 
 # globals
+AIRCRAFTS = set()
 ORGS = set()
+INSTRUMENTS = set()
+PERSONS = set()
+
+
+def dump(curated_file, output_file, val_set):
+
+    with open(curated_file) as f:
+        curated = json.load(f)
+    with open(output_file, 'w') as f:
+        j = {}
+        for k in sorted([i for i in list(val_set) if i is not None]):
+            if k in curated and curated[k] is not None: val = curated[k]
+            else: val = k.lower().replace(' ', '-')
+            j[k] = val
+        json.dump(j, f, indent=2, sort_keys=True)
 
 
 def get_paging_info():
@@ -111,6 +130,9 @@ def get_instrument_info(td):
                 aircraft_url = "%s%s" % (BASE_URL, aircraft_href)
             else: aircraft_url = None
             aircrafts.append(get_aircraft_info(aircraft_name, aircraft_url))
+            AIRCRAFTS.add(aircraft_name)
+
+    INSTRUMENTS.add(td.a.string)
 
     return { 
         'title': td.a.string,
@@ -162,6 +184,8 @@ def get_contact_info(td):
         website = website_div.contents[1].a.get('href', None)
     else: website = None
 
+    PERSONS.add(td.a.string)
+
     return { 
         'name': td.a.string,
         'href': "%s%s" % (BASE_URL, td.a.get('href')),
@@ -212,10 +236,24 @@ def crawl_all(output_dir):
             with open(info_file, 'w') as f:
                 json.dump(info, f, indent=2, sort_keys=True)
 
+    # curated identifiers directory
+    curated_dir = os.path.join(os.path.dirname(__file__), "curated")
+
     # write out orgs
-    org_file = os.path.join(output_dir, "organization.json")
-    with open(org_file, 'w') as f:
-        json.dump({'organizations': sorted([i for i in list(ORGS) if i is not None])}, f, indent=2)
+    dump(os.path.join(curated_dir, "organization-gcis-map.json"),
+         os.path.join(output_dir, "organization.json"), ORGS)
+
+    # write out aircrafts
+    dump(os.path.join(curated_dir, "aircraft-gcis-map.json"),
+         os.path.join(output_dir, "aircraft.json"), AIRCRAFTS)
+
+    # write out instruments
+    dump(os.path.join(curated_dir, "instrument-gcis-map.json"),
+         os.path.join(output_dir, "instrument.json"), INSTRUMENTS)
+
+    # write out persons
+    dump(os.path.join(curated_dir, "person-gcis-map.json"),
+         os.path.join(output_dir, "person.json"), PERSONS)
 
 
 if __name__ == "__main__":
