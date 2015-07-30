@@ -27,7 +27,7 @@ def dump(curated_file, output_file, val_set):
         j = {}
         for k in sorted([i for i in list(val_set) if i is not None]):
             if k in curated and curated[k] is not None: val = curated[k]
-            else: val = k.lower().replace(' ', '-')
+            else: val = k.lower().replace(' ', '-').replace('-of-', '-')
             j[k] = val
         json.dump(j, f, indent=2, sort_keys=True)
 
