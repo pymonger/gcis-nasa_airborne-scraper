@@ -1,11 +1,11 @@
 {
   "Alpha Jet": "alpha-jet", 
   "Altair": "altair", 
-  "B-200 (UC-12B) - LARC": "b-200-(uc-12b)---larc", 
-  "B200 - LARC": "b200---larc", 
+  "B-200 (UC-12B) - LARC": "b-200-uc-12b-larc", 
+  "B200 - LARC": "b200-larc", 
   "Balloon": "balloon", 
   "C-130H Hercules": "c-130h-hercules", 
-  "C-20A (G-3) - Armstrong": "c-20a-(g-3)---armstrong", 
+  "C-20A (G-3) - Armstrong": "c-20a-g-3-armstrong", 
   "Caravan": "caravan", 
   "Cessna 402B": "cessna-402b", 
   "Citation": "citation", 
@@ -24,7 +24,7 @@
   "P-3 Orion": "p-3-orion", 
   "Proteus": "proteus", 
   "Twin Otter": "twin-otter", 
-  "Twin Otter (DOE)": "twin-otter-(doe)", 
+  "Twin Otter (DOE)": "twin-otter-doe", 
   "Twin Otter International": "twin-otter-international", 
   "WB-57": "wb-57"
 }

@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os, sys, re, json, requests, requests_cache, argparse
 from bs4 import BeautifulSoup
+from unidecode import unidecode
 
 
 requests_cache.install_cache('airbornescience-import')
@@ -27,7 +28,11 @@ def dump(curated_file, output_file, val_set):
         j = {}
         for k in sorted([i for i in list(val_set) if i is not None]):
             if k in curated and curated[k] is not None: val = curated[k]
-            else: val = k.lower().replace(' ', '-').replace('-of-', '-')
+            else:
+                val = "-".join([unidecode(c.lower()) for c in k.split() if c not in ('of', '-')])\
+                         .replace('.', '').replace('(', '').replace(')', '')\
+                         .replace('/', '-').replace(',', '').replace("'", '')\
+                         .replace('"', '')
             j[k] = val
         json.dump(j, f, indent=2, sort_keys=True)
 
