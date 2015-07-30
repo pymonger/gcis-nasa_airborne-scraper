@@ -9,6 +9,9 @@ COUNT_RE = re.compile(r'Currently\s+displayed:\s*instruments\s+1\s+-\s+(\d+)\s+o
 
 ROLE_RE = re.compile(r'\((.*?)\)')
 
+# globals
+ORGS = set()
+
 
 def get_paging_info():
     """Parse out total number of instruments and results per page."""
@@ -48,6 +51,7 @@ def get_aircraft_info(name, url):
         if org_div is not None and len(org_div.contents) >= 2:
             for o in org_div.contents[1].find_all('div'):
                 orgs.append(o.string)
+                ORGS.add(o.string)
 
         # extract aircraft type
         type_div = soup.find('div', class_="field-name-field-ac-type")
@@ -139,6 +143,7 @@ def get_contact_info(td):
     if org_div is not None and len(org_div.contents) >= 2:
         org = org_div.contents[1].string
     else: org = None
+    ORGS.add(org)
 
     # extract phone number
     phone_div = soup.find('div', attrs={'rel': 'foaf:phone'})
@@ -206,6 +211,11 @@ def crawl_all(output_dir):
             info_file = os.path.join(instr_dir, "%s.json" % os.path.basename(info['href']).replace(' ', '-'))
             with open(info_file, 'w') as f:
                 json.dump(info, f, indent=2, sort_keys=True)
+
+    # write out orgs
+    org_file = os.path.join(output_dir, "organization.json")
+    with open(org_file, 'w') as f:
+        json.dump({'organizations': sorted([i for i in list(ORGS) if i is not None])}, f, indent=2)
 
 
 if __name__ == "__main__":

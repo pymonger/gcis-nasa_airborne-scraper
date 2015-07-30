@@ -1,0 +1,37 @@
+{
+  "acronym": "ARMAR", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Steve_Durden", 
+    "name": "Steve Durden", 
+    "organization": "Jet Propulsion Laboratory", 
+    "phone": null, 
+    "role": "Co-I", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Airborne_Rain_Mapping_Radar", 
+  "instrument": [
+    "Radar"
+  ], 
+  "measurements": [
+    "Doppler Velocity", 
+    "Radar Reflectivity", 
+    "Brightness Temperature"
+  ], 
+  "photo": null, 
+  "summary": "The NASA/JPL Airborne Rain MApping Radar (ARMAR) was developed for the purpose of supporting future spaceborne rain radar systems, including the TRMM PR. ARMAR flies on the NASA DC-8 aircraft and operates at 13.8 GHz (Ku-band); it has Doppler and multi-polarization capabilities. It normally scans its antenna across track +/- 20 degrees but can also operate with its antenna pointing at a fixed angle. In addition to acquisition of radar parameters, it also spends a small fraction of its time operating as a radiometer, providing the 13.8 GHz brightness temperature. ARMAR is a pulse compression radar, meaning that it transmits an FM chirp signal of relatively long duration. The raw data is recorded directly to a high speed tape recorder. Post-processing occurs in two steps; first, the raw data is compressed by correlating it with the transmitted chirp, giving data comparable to a conventional short pulse radar. These data are used to form various second-order statistics, which are averaged over at least 100 (often several hundred) pulses. The second processing step takes the pulse-compressed and averaged data and performs calibration. This step uses data acquired by the system calibration loop during flight to convert the measured power to the equivalent radar reflectivity factor Ze. It also produces Doppler velocity and polarization observables, depending on the mode of operation during data collection.", 
+  "title": "Airborne Rain Mapping Radar"
+}
