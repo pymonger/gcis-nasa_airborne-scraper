@@ -9,9 +9,11 @@ requests_cache.install_cache('airbornescience-import')
 
 BASE_URL = "http://airbornescience.nasa.gov"
 
+# regex
 COUNT_RE = re.compile(r'Currently\s+displayed:\s*instruments\s+1\s+-\s+(\d+)\s+of\s+(\d+)\.')
-
 ROLE_RE = re.compile(r'\((.*?)\)')
+SPACE_CHAR_RE = re.compile(r'[\.()/,"]|(\s(-|of)\s)')
+CLEAN_CHAR_RE = re.compile(r'\'')
 
 # globals
 AIRCRAFTS = set()
@@ -29,10 +31,9 @@ def dump(curated_file, output_file, val_set):
         for k in sorted([i for i in list(val_set) if i is not None]):
             if k in curated and curated[k] is not None: val = curated[k]
             else:
-                val = "-".join([unidecode(c.lower()) for c in k.split() if c not in ('of', '-')])\
-                         .replace('.', '').replace('(', '').replace(')', '')\
-                         .replace('/', '-').replace(',', '').replace("'", '')\
-                         .replace('"', '')
+                val = "-".join(CLEAN_CHAR_RE.sub('',
+                               SPACE_CHAR_RE.sub(' ',
+                                   unidecode(k.lower()))).split())
             j[k] = val
         json.dump(j, f, indent=2, sort_keys=True)
 
