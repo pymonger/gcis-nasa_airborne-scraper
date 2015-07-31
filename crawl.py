@@ -22,19 +22,29 @@ INSTRUMENTS = set()
 PERSONS = set()
 
 
-def dump(curated_file, output_file, val_set):
+def get_identifier(val):
+    """Generate GCIS identifier from string."""
 
-    with open(curated_file) as f:
-        curated = json.load(f)
+    return "-".join(CLEAN_CHAR_RE.sub('',
+                    SPACE_CHAR_RE.sub(' ',
+                    unidecode(val.lower()))).split())
+
+
+def dump(curated_file, output_file, val_set):
+    """Dump identifier map."""
+
+    # get curated identifiers
+    if os.path.exists(curated_file):
+        with open(curated_file) as f:
+            curated = json.load(f)
+    else: curated = {}
+
+    # dump
     with open(output_file, 'w') as f:
         j = {}
         for k in sorted([i for i in list(val_set) if i is not None]):
-            if k in curated and curated[k] is not None: val = curated[k]
-            else:
-                val = "-".join(CLEAN_CHAR_RE.sub('',
-                               SPACE_CHAR_RE.sub(' ',
-                                   unidecode(k.lower()))).split())
-            j[k] = val
+            if k in curated and curated[k] is not None: j[k] = curated[k]
+            else: j[k] = get_identifier(k)
         json.dump(j, f, indent=2, sort_keys=True)
 
 
