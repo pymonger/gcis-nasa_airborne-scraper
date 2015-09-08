@@ -25,7 +25,7 @@ SW_RE = re.compile(r'/data-software/')
 ACR_RE = re.compile(r'\((.*?)\)')
 
 
-def crawl_all(input_dir):
+def crawl_all(json_file):
     """Crawl the Airborne Science website for instruments."""
 
     # crawl DOIs page
@@ -108,12 +108,14 @@ def crawl_all(input_dir):
             data_dict[resource_type][key]['ezid'] = val
             #logging.info("#" * 80)
     logging.info("%s" % json.dumps(data_dict, indent=2))
+    with open(json_file, 'w') as f:
+        json.dump(data_dict, f, indent=2, sort_keys=True)
      
 
 if __name__ == "__main__":
     desc = "Scrape DOIs from NCAR/UCAR EOL, match on platforms/instruments" + \
            " in JSON dump (output of crawl.py) and attach additional metadata."
     parser = argparse.ArgumentParser(description=desc)
-    parser.add_argument('input_dir', help="input directory (output_dir of crawl.py)")
+    parser.add_argument('json_file', help="output JSON file")
     args = parser.parse_args()
-    crawl_all(args.input_dir)
+    crawl_all(args.json_file)

@@ -1,0 +1,152 @@
+{
+  "instrument": {
+    "3V-CPI": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6NV9G9P", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6NV9G9P", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/three-view-cloud-particle-imager"
+    }, 
+    "AWAS": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D65X270F", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D65X270F", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/advanced-whole-air-sampler"
+    }, 
+    "Autonomous Airborne Ozone Photometer": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6154F36", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6154F36", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/raf-ozone-photometer"
+    }, 
+    "FO3": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6SN070H", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6SN070H", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/nitric-oxide-chemiluminescence-ozone-instrument"
+    }, 
+    "GISMOS": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6J67F00", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6J67F00", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/gnss-instrument-system-multi-static-and-occultation-sensing"
+    }, 
+    "GT CIMS": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6XD0ZQF", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6XD0ZQF", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/georgia-tech-chemical-ionization-mass-spectrometer"
+    }, 
+    "HARP": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6FF3QDN", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6FF3QDN", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/hiaper-airborne-radiation-package"
+    }, 
+    "HSRL \u00a0(duplicate listing; see above)": {
+      "acronym": "duplicate listing; see above", 
+      "doi": "http://dx.doi.org/10.5065/D67W6976", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D67W6976", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/hsrl"
+    }, 
+    "MTP": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6251G7K", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6251G7K", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/microwave-temperature-profiler"
+    }, 
+    "NCAR HIAPER Cloud Radar (HCR)": {
+      "acronym": "HCR", 
+      "doi": "http://dx.doi.org/10.5065/D6BP00TP", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6BP00TP", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/hiaper-cloud-radar-hcr"
+    }, 
+    "NCAR High Spectral Resolution Lidar (HSRL)": {
+      "acronym": "HSRL", 
+      "doi": "http://dx.doi.org/10.5065/D67W6976", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D67W6976", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/hsrl"
+    }, 
+    "QCLS": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D69P2ZQC", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D69P2ZQC", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/quantum-cascade-laser-spectrometer"
+    }, 
+    "SID-II": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6K35RQN", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6K35RQN", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/small-ice-detector-version-2-hiaper"
+    }, 
+    "TOGA": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6DF6P9Q", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6DF6P9Q", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/trace-organic-gas-analyzer"
+    }, 
+    "ToF-AMS": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D64X55VN", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D64X55VN", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/time-flight-aerosol-mass-spectrometer"
+    }, 
+    "VCSEL": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6PV6HDM", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6PV6HDM", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/vertical-cavity-surface-emitting-laser-vcsel-hygrometer"
+    }
+  }, 
+  "platform": {
+    "NCAR Airborne Vertical Atmospheric Profiling System (AVAPS)": {
+      "acronym": "AVAPS", 
+      "doi": "http://dx.doi.org/10.5065/D66W9848", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D66W9848", 
+      "landing_page": "https://www.eol.ucar.edu/observing_facilities/avaps"
+    }, 
+    "NCAR GPS Advanced Upper-air Sounding System (GAUS)": {
+      "acronym": "GAUS", 
+      "doi": "http://dx.doi.org/10.5065/D6TM785S", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6TM785S", 
+      "landing_page": "https://www.eol.ucar.edu/observing_facilities/gaus"
+    }, 
+    "NCAR Integrated Sounding System (ISS)": {
+      "acronym": "ISS", 
+      "doi": "http://dx.doi.org/10.5065/D6348HF9", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6348HF9", 
+      "landing_page": "https://www.eol.ucar.edu/observing_facilities/iss"
+    }, 
+    "NCAR Integrated Surface Flux System (ISFS)": {
+      "acronym": "ISFS", 
+      "doi": "http://dx.doi.org/10.5065/D6ZC80XJ", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6ZC80XJ", 
+      "landing_page": "https://www.eol.ucar.edu/observing_facilities/isfs"
+    }, 
+    "NCAR S-band/Ka-band Dual Polarization, Dual Wavelength Doppler Radar (S-PolKa) [1996]": {
+      "acronym": "S-PolKa", 
+      "doi": "http://dx.doi.org/10.5065/D6RV0KR8", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6RV0KR8", 
+      "landing_page": "https://www.eol.ucar.edu/observing_facilities/s-polka"
+    }, 
+    "NSF/NCAR C-130": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6WM1BG0", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6WM1BG0", 
+      "landing_page": "https://www.eol.ucar.edu/observing_facilities/c-130"
+    }, 
+    "NSF/NCAR GV (HIAPER) [2006]": {
+      "acronym": "HIAPER", 
+      "doi": "http://dx.doi.org/10.5065/D6DR2SJP", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6DR2SJP", 
+      "landing_page": "https://www.eol.ucar.edu/observing_facilities/hiaper"
+    }
+  }, 
+  "software": {
+    "NCAR Field catalog": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6SQ8XFB", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6SQ8XFB", 
+      "landing_page": "https://www.eol.ucar.edu/data-software/field-catalog"
+    }
+  }
+}
