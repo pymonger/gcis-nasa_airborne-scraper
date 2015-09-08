@@ -1,0 +1,47 @@
+{
+  "acronym": "PFP", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "325 Broadway Boulder , CO 80305 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Steve_Montzka", 
+    "name": "Steve Montzka", 
+    "organization": "NOAA Earth System Research Laboratory", 
+    "phone": "tel:tel:+1-303-497-6657", 
+    "role": "PI", 
+    "website": "http://www.esrl.noaa.gov/gmd/"
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/PFP", 
+  "instrument": [], 
+  "measurements": [
+    "N2O", 
+    "SF6", 
+    "H2", 
+    "CS2", 
+    "OCS", 
+    "CO2", 
+    "CH4", 
+    "CO", 
+    "CFCs", 
+    "HCFCs", 
+    "HFCs", 
+    "Solvents", 
+    "Methyl Halides", 
+    "Hydrocarbons", 
+    "Perfluorocarbons"
+  ], 
+  "photo": null, 
+  "summary": "The PFP whole air sampler provides a means of automated or manual filling of glass flasks, twelve per PFP. The sampler is designed to remove excess water vapor from the sampled air and compress it without contamination into ~1-liter volumes. These flasks are analyzed at the NOAA\u2019s Global Monitoring Division laboratory for trace gasses and at \u00a0the INSTAR\u2019s Staple Isotope Lab laboratory for isotopes of methane. More than 60 trace gases found in the global atmosphere can be measured at mole fractions that range from parts-per-million (10 -6 ), e.g., carbon dioxide, down to parts-per-quadrillion (10 -15 ), e.g., HFC-365mfc. \u00a0The chemical species monitored include N 2 O, SF 6 , H 2 , CS 2 , OCS, CO 2 , CH 4 , CO, CFCs, HCFCs, HFCs, Solvents, Methyl Halides, Hydrocarbons and Perfluorocarbons.", 
+  "title": "Programmable Flask Package Whole Air Sampler"
+}

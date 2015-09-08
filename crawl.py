@@ -1,7 +1,11 @@
 #!/usr/bin/env python
-import os, sys, re, json, requests, requests_cache, argparse
+import os, sys, re, json, requests, requests_cache, argparse, logging
 from bs4 import BeautifulSoup
 from unidecode import unidecode
+
+
+log_format = "[%(asctime)s: %(levelname)s/%(funcName)s] %(message)s"
+logging.basicConfig(format=log_format, level=logging.INFO)
 
 
 requests_cache.install_cache('airbornescience-import')
@@ -235,15 +239,22 @@ def crawl_all(output_dir):
 
     # get total instruments
     page_size, total = get_paging_info()
+    logging.info("page_size: %s; total: %s" % (page_size, total))
+    logging.info("pages: %s" % range(total/page_size))
 
     # loop over pages
     instr_dir = os.path.join(output_dir, "instruments")
     if not os.path.isdir(instr_dir): os.makedirs(instr_dir, 0755)
-    for page in range(total/page_size+1):
+    for page in range(total/page_size):
         r = requests.get("%s/instrument/all" % BASE_URL, params={'page': page})
+        logging.info("URL: %s" % r.url)
         r.raise_for_status()
         soup = BeautifulSoup(r.content, 'lxml')
-        tbody = soup.find('table', class_="views-table").tbody
+        tb = soup.find('table', class_="views-table")
+        if tb is None:
+            logging.warn("No table found with class 'views-table': %s" % r.content)
+            continue
+        tbody = tb.tbody
         data = []
         for tr in tbody.find_all('tr'):
             info = parse_row_data(tr)

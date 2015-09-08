@@ -41,8 +41,8 @@
   "href": "http://airbornescience.nasa.gov/instrument/UCATS", 
   "instrument": [
     "Gas chromatography", 
-    "Photometer", 
-    "Spectrometer (in situ)"
+    "Spectrometer (in situ)", 
+    "Photometer"
   ], 
   "measurements": [
     "N2O", 
@@ -51,7 +51,7 @@
     "CO", 
     "O3"
   ], 
-  "photo": null, 
+  "photo": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/DSC_0843.jpg?itok=QtNVBYB5", 
   "summary": "The Unmanned Aircraft Systems (UAS) Chromatograph for Atmospheric Trace Species (UCATS) was designed and built for autonomous operation on pilotless aircraft. It uses chromatography to separate atmospheric trace gases along a narrow heated column, followed by precise and accurate detection with electron capture detectors. There are two chromatographs on UCATS, one of which measures nitrous oxide and sulfur hexafluoride, the other of which measures methane, hydrogen, and carbon monoxide. In addition, there is a small ozone instrument and a tunable diode laser instrument for water vapor. Gas is pumped into the instruments from an inlet below the GV, measured, and vented. UCATS has flown on the Altair UAS, the GV during HIPPO I and II, and most recently on the NASA/NOAA Global Hawk UAS during the Global Hawk Pacific (GloPac) mission, where a record was set for the longest duration research flight (more than 28 hours). UCATS is relatively lightweight and compact, making it ideal for smaller platforms, but it is easily adaptable to a mid-size platform like the GV for HIPPO. The data are used to measure sources and sinks of trace gases involved in climate and air quality, as well as transport through the atmosphere.UCATS is three different instruments in one enclosure:1. 2-channel gas chromatograph (GC) 2. Dual-beam ozone photometer (OZ) 3. Tunable diode laser (TDL) spectrometer for water vapor (WV)", 
   "title": "UAS Chromatograph for Atmospheric Trace Species"
 }

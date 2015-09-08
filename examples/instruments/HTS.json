@@ -1,0 +1,39 @@
+{
+  "acronym": "HTS", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": null, 
+    "href": "http://airbornescience.nasa.gov/person/Bruce_Daube", 
+    "name": "Bruce Daube", 
+    "organization": "Harvard University", 
+    "phone": null, 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/HTS", 
+  "instrument": [
+    "Laser absorption", 
+    "Spectrometer (in situ)"
+  ], 
+  "measurements": [
+    "CO", 
+    "CO2", 
+    "CH4", 
+    "N2O"
+  ], 
+  "photo": null, 
+  "summary": "HTS is composed of two instruments based on absorption of near-infrared laser radiation in high finesse optical cavities. A Picarro G2401-m analyzer based on wavelength-scanned cavity ring-down spectroscopy (CRDS) measures CO2, CH4, and CO concentrations at 2-second intervals. A Los Gatos 913-0014 EP analyzer based on off-axis integrated cavity output spectroscopy (ICOS) measures N2O and CO concentrations at 1-second intervals. Extensive modifications have been applied to these commercial analyzers for flight and include vibration isolation, temperature control, additional flow control and pumping capacity for high-altitude sampling, sample drying, and in-flight calibrations using WMO-traceable compressed gas standards to verify stable and accurate performance throughout the full DC-8 flight envelope.", 
+  "title": "Harvard Tracer Suite"
+}

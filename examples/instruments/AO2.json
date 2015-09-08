@@ -1,0 +1,34 @@
+{
+  "acronym": "AO2", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "NCAR 3090 Center Green Dr Boulder , CO 80301 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Britt_Stephens", 
+    "name": "Britt Stephens", 
+    "organization": "National Center for Atmospheric Research", 
+    "phone": "tel:tel:+1-303-497-1018", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/AO2", 
+  "instrument": [], 
+  "measurements": [
+    "O2", 
+    "CO2"
+  ], 
+  "photo": null, 
+  "summary": "The NCAR Airborne Oxygen Instrument measures O2 concentration using a vacuum-ultraviolet absorption technique.\u2028 AO2 is based on earlier ship-board and laboratory instruments using the same technique, but has been designed specifically for airborne use to minimize\u2028motion and thermal sensitivity and with a pressure and flow controlled inlet system. To achieve the high levels of precision needed, AO2 switches between sample gas and air\u2028from a high-pressure reference cylinder\u2028every 2.5 seconds. Atmospheric O2 concentrations are typically reported in units\u2028of one part in 1,000,000 relative deviations\u2028in the O2/N2 ratio, which are referred to as\u2028 \"per meg.\" AO2 has a 1-sigma precision of\u2028\u00b1 2 per meg on a 5 second measurement.\u2028 For comparison, this is equivalent to detecting the removal of one O2 molecule\u2028 from 2.5 million molecules of air. At typical\u2028flight speeds of 300 kts or climb/descent\u2028rates of 1500 fpm, 5-seconds correspond to\u2028a horizontal resolution of 750 m and a\u2028vertical resolution of 40 m. The instrument includes an internal single-cell CO2 sensor (LI-840), which is used to correct the O2 measurements for dilution by CO2 and for scientific purposes. To minimize inlet\u2028surface effects, the pressure in the inlet line\u2028is actively controlled at the aircraft bulkhead.\u2028The sample air is cryogenically dried in a\u2028series of electropolished stainless steel traps immersed in a dry ice Fluorinert slurry. The\u2028 AO2 system consists of a pump module, a cylinder module, an instrument module, and a dewar.", 
+  "title": "NCAR Airborne Oxygen Instrument"
+}

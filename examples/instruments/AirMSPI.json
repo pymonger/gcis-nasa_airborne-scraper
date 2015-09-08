@@ -23,8 +23,7 @@
   "data_image": null, 
   "href": "http://airbornescience.nasa.gov/instrument/AirMSPI", 
   "instrument": [
-    "Camera", 
-    "Spectrometer"
+    "Radiometer"
   ], 
   "measurements": [
     "Imagery"

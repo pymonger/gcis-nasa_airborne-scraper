@@ -1,0 +1,36 @@
+{
+  "acronym": "Medusa", 
+  "aircraft": [
+    {
+      "name": "DC-8", 
+      "organization": [
+        "NASA Armstrong (Dryden) Flight Research Center", 
+        "University of North Dakota"
+      ], 
+      "summary": "The NASA DC-8 flight operations are provided by NASA /Armstrong Flight Research Center based out of Bldg 703 in Palmdale, CA. The University of North Dakota National Suborbital Education and Research Center provides science mission operations including payload integration engineering, data display and satcom systems and support, and education and outreach for the program.", 
+      "type": "Conventional Aircraft", 
+      "url": "http://airbornescience.nasa.gov/aircraft/DC-8"
+    }
+  ], 
+  "contact": {
+    "address": "Scripps Institution of Oceanography/UCSD 9500 Gilman Dr, Mail Code 0244 La Jolla , CA 92093-0244 United States", 
+    "href": "http://airbornescience.nasa.gov/person/Ralph_Keeling", 
+    "name": "Ralph Keeling", 
+    "organization": "Scripps Institution of Oceanography", 
+    "phone": "tel:tel:+1-858-534-7582", 
+    "role": "PI", 
+    "website": null
+  }, 
+  "data_image": null, 
+  "href": "http://airbornescience.nasa.gov/instrument/Medusa", 
+  "instrument": [], 
+  "measurements": [
+    "O2", 
+    "CO2", 
+    "N2", 
+    "Argon"
+  ], 
+  "photo": null, 
+  "summary": "Medusa collects 32 cryogenically dried, flow and pressure controlled samples per flight. The samples are collected by an automated sampler into 1.5 L glass flasks that integrate over 25-s (1 e-fold) periods. Medusa provides discretely-sampled comparisons for onboard in situ O2/N2 ratio and CO2 measurements and unique measurements of Ar/N2 and 13 C, 14 C, and 18 O isotopologues of CO2. The complementary measurements allow ground-truthing of onboard instrument measurements in a laboratory setting, where analysis conditions can often be more stringently controlled and carefully monitored. Isotope and argon measurements can provide additional information about land and ocean controls over the carbon cycle, and about the age and source of the air sampled.Medusa consists of an onboard computer, two pressure controllers, two\u2028 pumps, three multi-position selector\u2028valves, and a host of other hardware that\u2028control and direct the air samples. All air\u2028is dried by passing it through traps\u2028immersed in a -78 C dry ice bath, adjusted to match atmospheric pressure\u2028at sea level, and then automatically isolated in a flask. Medusa flasks are analyzed on a sector-magnet mass spectrometer and a LiCor non-dispersive infrared CO2 analyzer by the Scripps O2 Program at Scripps Institution of Oceanography.", 
+  "title": "Medusa Whole Air Sampler"
+}
