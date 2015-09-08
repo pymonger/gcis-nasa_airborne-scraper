@@ -22,6 +22,7 @@ EOL_RE = re.compile(r'EOL Documents')
 PLAT_RE = re.compile(r'/observing_facilities/')
 INSTR_RE = re.compile(r'/instruments/')
 SW_RE = re.compile(r'/data-software/')
+ACR_RE = re.compile(r'\((.*?)\)')
 
 
 def crawl_all(input_dir):
@@ -93,6 +94,12 @@ def crawl_all(input_dir):
                 raise RuntimeError("Failed to detect resource type: %s" % val)
             #logging.info("landing_page: %s" % val)
             data_dict[resource_type].setdefault(key, {})['landing_page'] = val
+
+            # detect acronym
+            acr_match = ACR_RE.search(key)
+            if acr_match: acr = acr_match.group(1)
+            else : acr = None
+            data_dict[resource_type][key]['acronym'] = acr
         elif i % 4 == 2:
             #logging.info("doi: %s" % val)
             data_dict[resource_type][key]['doi'] = val
