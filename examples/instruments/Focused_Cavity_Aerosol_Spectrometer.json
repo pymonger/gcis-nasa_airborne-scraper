@@ -56,6 +56,11 @@
     "website": null
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Focused_Cavity_Aerosol_Spectrometer", 
   "instrument": [
     "Optical particle counter"

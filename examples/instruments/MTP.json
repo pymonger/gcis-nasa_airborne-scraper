@@ -70,6 +70,11 @@
     "website": null
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/951211a.gif?itok=br9dXsHs", 
+  "eol": {
+    "doi": "http://dx.doi.org/10.5065/D6251G7K", 
+    "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6251G7K", 
+    "landing_page": "https://www.eol.ucar.edu/instruments/microwave-temperature-profiler"
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/MTP", 
   "instrument": [
     "Microwave Radiometer"

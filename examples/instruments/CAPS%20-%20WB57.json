@@ -21,6 +21,11 @@
     "website": null
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/CAPS%20-%20WB57", 
   "instrument": [
     "Spectrometer (in situ)"

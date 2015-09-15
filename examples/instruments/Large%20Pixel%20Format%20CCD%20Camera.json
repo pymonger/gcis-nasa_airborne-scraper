@@ -22,6 +22,11 @@
     "website": null
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/StardustCCD.jpg?itok=qdWUw2z1", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Large%20Pixel%20Format%20CCD%20Camera", 
   "instrument": [
     "Camera"

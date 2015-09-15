@@ -19,6 +19,11 @@
     "website": null
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Picarro%20Ring%20Down%20Cavity%20Spectrometer", 
   "instrument": [
     "Spectrometer (in situ)"

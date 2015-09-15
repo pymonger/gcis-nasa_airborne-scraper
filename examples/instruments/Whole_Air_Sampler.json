@@ -31,6 +31,11 @@
     "website": "http://www.faculty.uci.edu/profile.cfm?faculty_id=4579"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Whole_Air_Sampler", 
   "instrument": [
     "Whole Air Sampling"

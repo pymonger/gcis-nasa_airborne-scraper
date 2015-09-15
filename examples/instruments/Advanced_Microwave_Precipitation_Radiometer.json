@@ -40,6 +40,11 @@
     "website": null
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/tc4_ampr_20070725_135600-185802.gif?itok=QD7W_n6N", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Advanced_Microwave_Precipitation_Radiometer", 
   "instrument": [
     "Microwave Radiometer"

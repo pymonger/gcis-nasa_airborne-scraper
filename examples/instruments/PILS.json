@@ -40,6 +40,11 @@
     "website": "http://www.aerosols.eas.gatech.edu/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/PILS", 
   "instrument": [
     "Ion Chromatography"

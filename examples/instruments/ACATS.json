@@ -56,6 +56,11 @@
     "website": "http://www.esrl.noaa.gov/gmd/staff/James.W.Elkins/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/ACATS", 
   "instrument": [
     "Gas chromatography"

@@ -40,6 +40,11 @@
     "website": null
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/1000119.penninsula2.jpg?itok=KiD24py9", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Digital_Mapping_System", 
   "instrument": [
     "Camera"

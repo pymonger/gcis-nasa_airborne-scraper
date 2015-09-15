@@ -35,6 +35,11 @@
     "website": "http://car.gsfc.nasa.gov/"
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/getfile.jpg?itok=YZ5_HEL-", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/CAR", 
   "instrument": [
     "Radiometer"

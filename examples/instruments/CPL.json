@@ -39,6 +39,11 @@
     "website": "http://cpl.gsfc.nasa.gov"
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/imgsum_07918_14jul07_1064.gif?itok=foNAjMrm", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/CPL", 
   "instrument": [
     "Lidar"

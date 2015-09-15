@@ -30,6 +30,11 @@
     "website": null
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/NW", 
   "instrument": [
     "CIMS", 

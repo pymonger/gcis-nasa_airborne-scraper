@@ -30,6 +30,11 @@
     "website": null
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/budmapcol.jpg?itok=BXB-8Vnz", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/HyMap", 
   "instrument": [
     "Spectrometer"

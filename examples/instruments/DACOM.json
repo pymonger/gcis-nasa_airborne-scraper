@@ -31,6 +31,11 @@
     "website": null
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/Fried%20updated2%20NASA%20Venture%20Class%20Talk%20Oct%202010.jpg?itok=tUbUMEqt", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/DACOM", 
   "instrument": [
     "Laser absorption", 

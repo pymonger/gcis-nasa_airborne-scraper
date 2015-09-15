@@ -54,6 +54,11 @@
     "website": "http://geo.arc.nasa.gov/sgg/AATS-website/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/AATS-14", 
   "instrument": [
     "Photometer"

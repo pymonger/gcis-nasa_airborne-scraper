@@ -22,6 +22,11 @@
     "website": "http://cohen.cchem.berkeley.edu/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/TD-LIF", 
   "instrument": [
     "Fluorescence"

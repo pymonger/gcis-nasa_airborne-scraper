@@ -47,6 +47,11 @@
     "website": null
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": "http://dx.doi.org/10.5065/D6K35RQN", 
+    "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6K35RQN", 
+    "landing_page": "https://www.eol.ucar.edu/instruments/small-ice-detector-version-2-hiaper"
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/SID", 
   "instrument": [
     "Particle imager"

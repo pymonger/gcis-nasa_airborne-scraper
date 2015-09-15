@@ -30,6 +30,11 @@
     "website": "http://data.giss.nasa.gov/pub/rsp/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Research_Scanning_Polarimeter", 
   "instrument": [
     "Spectrometer"

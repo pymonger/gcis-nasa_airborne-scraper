@@ -13,6 +13,11 @@
   ], 
   "contact": null, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/AJAX_O3%20timeseries_GPS%20Altitude_050613.png?itok=qTucUyhm", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Alpha%20Jet%20Ozone%20Instrument", 
   "instrument": [], 
   "measurements": [

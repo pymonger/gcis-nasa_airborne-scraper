@@ -47,6 +47,11 @@
     "website": null
   }, 
   "data_image": "https://airbornescience.nasa.gov/sites/default/files/styles/square_300/public/images/AVIRXMP.jpg?itok=dxE1MXE0", 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/AVIRIS", 
   "instrument": [
     "Spectrometer"

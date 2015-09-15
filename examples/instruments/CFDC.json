@@ -29,6 +29,11 @@
     "website": "http://lamar.colostate.edu/~pdemott/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/CFDC", 
   "instrument": [
     "Optical particle counter"

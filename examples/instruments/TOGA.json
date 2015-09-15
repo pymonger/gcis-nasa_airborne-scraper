@@ -29,6 +29,11 @@
     "website": null
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": "http://dx.doi.org/10.5065/D6DF6P9Q", 
+    "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6DF6P9Q", 
+    "landing_page": "https://www.eol.ucar.edu/instruments/trace-organic-gas-analyzer"
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/TOGA", 
   "instrument": [
     "Gas chromatography", 

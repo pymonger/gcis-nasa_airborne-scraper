@@ -22,6 +22,11 @@
     "website": null
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Conically-Scanning_Two-look_Airborne_Radiometer", 
   "instrument": [
     "Radiometer"

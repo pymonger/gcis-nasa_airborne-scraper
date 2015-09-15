@@ -40,6 +40,11 @@
     "website": "http://wennberg-wiki.caltech.edu/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/CIT-CIMS", 
   "instrument": [
     "CIMS"

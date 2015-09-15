@@ -223,7 +223,7 @@ def get_value_list(tr, cls):
     return [a.string for a in tr.find('td', class_=cls).find_all('a')]
         
 
-def parse_row_data(tr):
+def parse_row_data(tr, eol_md):
     """Parse row data."""
 
     info = get_instrument_info(tr.find('td', class_="views-field-title"))
@@ -231,16 +231,36 @@ def parse_row_data(tr):
     info['contact'] = get_contact_info(tr.find('td', class_="views-field-entity-id-5"))
     info['instrument'] = get_value_list(tr, "views-field-field-itype")
     info['measurements'] = get_value_list(tr, "views-field-field-meas")
+
+    # add EOL metadata
+    info['eol'] = {}
+    if info['acronym'] in eol_md['instrument']:
+        eol_match = eol_md['instrument'][info['acronym']]
+        info['eol']['doi'] = eol_match['doi']
+        info['eol']['ezid'] = eol_match['ezid']
+        info['eol']['landing_page'] = eol_match['landing_page']
+    else:
+        info['eol']['doi'] = None
+        info['eol']['ezid'] = None
+        info['eol']['landing_page'] = None
+
     return info
 
 
-def crawl_all(output_dir):
+def crawl_all(output_dir, eol):
     """Crawl the Airborne Science website for instruments."""
 
-    # get total instruments
+    # get total instrumentk
     page_size, total = get_paging_info()
     logging.info("page_size: %s; total: %s" % (page_size, total))
     logging.info("pages: %s" % range(total/page_size))
+    logging.info("eol: %s" % eol)
+
+    # get EOL metadata
+    if eol is None: eol_md = {}
+    else:
+        with open(eol) as f:
+            eol_md = json.load(f)
 
     # loop over pages
     instr_dir = os.path.join(output_dir, "instruments")
@@ -257,7 +277,7 @@ def crawl_all(output_dir):
         tbody = tb.tbody
         data = []
         for tr in tbody.find_all('tr'):
-            info = parse_row_data(tr)
+            info = parse_row_data(tr, eol_md)
             data.append(info)
             info_file = os.path.join(instr_dir, "%s.json" % os.path.basename(info['href']).replace(' ', '-'))
             with open(info_file, 'w') as f:
@@ -287,5 +307,6 @@ if __name__ == "__main__":
     desc = "Crawl and dump airborne instruments, platforms and related metadata."
     parser = argparse.ArgumentParser(description=desc)
     parser.add_argument('output_dir', help="output directory")
+    parser.add_argument('--eol', help="EOL metadata JSON file")
     args = parser.parse_args()
-    crawl_all(args.output_dir)
+    crawl_all(args.output_dir, args.eol)

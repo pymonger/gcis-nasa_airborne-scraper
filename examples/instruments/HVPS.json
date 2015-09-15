@@ -47,6 +47,11 @@
     "website": "http://www.specinc.com"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/HVPS", 
   "instrument": [
     "Particle imager", 

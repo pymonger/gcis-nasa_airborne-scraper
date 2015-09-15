@@ -24,6 +24,12 @@
       "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6SN070H", 
       "landing_page": "https://www.eol.ucar.edu/instruments/nitric-oxide-chemiluminescence-ozone-instrument"
     }, 
+    "Fast-O3": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6SN070H", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6SN070H", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/nitric-oxide-chemiluminescence-ozone-instrument"
+    }, 
     "GISMOS": {
       "acronym": null, 
       "doi": "http://dx.doi.org/10.5065/D6J67F00", 
@@ -36,14 +42,20 @@
       "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6XD0ZQF", 
       "landing_page": "https://www.eol.ucar.edu/instruments/georgia-tech-chemical-ionization-mass-spectrometer"
     }, 
+    "GT-CIMS": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6XD0ZQF", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6XD0ZQF", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/georgia-tech-chemical-ionization-mass-spectrometer"
+    }, 
     "HARP": {
       "acronym": null, 
       "doi": "http://dx.doi.org/10.5065/D6FF3QDN", 
       "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6FF3QDN", 
       "landing_page": "https://www.eol.ucar.edu/instruments/hiaper-airborne-radiation-package"
     }, 
-    "HSRL \u00a0(duplicate listing; see above)": {
-      "acronym": "duplicate listing; see above", 
+    "HSRL": {
+      "acronym": "HSRL",
       "doi": "http://dx.doi.org/10.5065/D67W6976", 
       "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D67W6976", 
       "landing_page": "https://www.eol.ucar.edu/instruments/hsrl"
@@ -78,6 +90,12 @@
       "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6K35RQN", 
       "landing_page": "https://www.eol.ucar.edu/instruments/small-ice-detector-version-2-hiaper"
     }, 
+    "SID": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D6K35RQN", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D6K35RQN", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/small-ice-detector-version-2-hiaper"
+    }, 
     "TOGA": {
       "acronym": null, 
       "doi": "http://dx.doi.org/10.5065/D6DF6P9Q", 
@@ -85,6 +103,18 @@
       "landing_page": "https://www.eol.ucar.edu/instruments/trace-organic-gas-analyzer"
     }, 
     "ToF-AMS": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D64X55VN", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D64X55VN", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/time-flight-aerosol-mass-spectrometer"
+    }, 
+    "HR-AMS": {
+      "acronym": null, 
+      "doi": "http://dx.doi.org/10.5065/D64X55VN", 
+      "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D64X55VN", 
+      "landing_page": "https://www.eol.ucar.edu/instruments/time-flight-aerosol-mass-spectrometer"
+    }, 
+    "HIGEAR": {
       "acronym": null, 
       "doi": "http://dx.doi.org/10.5065/D64X55VN", 
       "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D64X55VN", 

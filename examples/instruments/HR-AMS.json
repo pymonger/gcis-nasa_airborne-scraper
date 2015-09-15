@@ -31,6 +31,11 @@
     "website": "http://cires.colorado.edu/jimenez"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": "http://dx.doi.org/10.5065/D64X55VN", 
+    "ezid": "http://ezid.cdlib.org/id/doi:10.5065/D64X55VN", 
+    "landing_page": "https://www.eol.ucar.edu/instruments/time-flight-aerosol-mass-spectrometer"
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/HR-AMS", 
   "instrument": [
     "Spectrometer (in situ)"

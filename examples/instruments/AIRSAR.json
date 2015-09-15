@@ -22,6 +22,11 @@
     "website": "http://uavsar.jpl.nasa.gov/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/AIRSAR", 
   "instrument": [
     "Radar"

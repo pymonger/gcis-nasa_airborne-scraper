@@ -19,6 +19,11 @@
     "website": "http://www.esrl.noaa.gov/gmd/ozwv/wvap/"
   }, 
   "data_image": null, 
+  "eol": {
+    "doi": null, 
+    "ezid": null, 
+    "landing_page": null
+  }, 
   "href": "http://airbornescience.nasa.gov/instrument/Ozonesondes_NOAA", 
   "instrument": [], 
   "measurements": [], 
